@@ -1,4 +1,19 @@
-# Script para ingestão de dados no Supabase
+"""
+ingestion/load_csv.py
+─────────────────────
+Script de ingestão dos CSVs para o Supabase (PostgreSQL).
+Executa validação, upsert idempotente e logging estruturado.
+
+Dependências:
+    pip install psycopg2-binary pandas python-dotenv
+
+Variáveis de ambiente (.env):
+    SUPABASE_HOST
+    SUPABASE_PORT      (padrão: 5432)
+    SUPABASE_DB        (padrão: postgres)
+    SUPABASE_USER
+    SUPABASE_PASSWORD
+"""
 
 import os
 import logging
@@ -185,12 +200,35 @@ def upsert_table(
     return total
 
 
-def refresh_identity_resolution(conn: psycopg2.extensions.connection) -> None:
-    """Atualiza a materialized view de identity resolution após a ingestão."""
-    log.info("  Atualizando identity_resolution ...")
-    with conn.cursor() as cur:
-        cur.execute("REFRESH MATERIALIZED VIEW CONCURRENTLY identity_resolution;")
-    log.info("  ✓ identity_resolution atualizada")
+def refresh_materialized_views(conn: psycopg2.extensions.connection) -> None:
+    """
+    Atualiza todas as materialized views após a ingestão.
+    Ordem obrigatória: silver primeiro (crm_accounts antes das demais,
+    pois user_activity e support_tickets dependem dela), gold por último.
+    """
+    views = [
+        "silver.crm_accounts",           # base da identity resolution
+        "silver.crm_contracts",
+        "silver.user_activity_events",   # depende de silver.crm_accounts
+        "silver.support_tickets",        # depende de silver.crm_accounts
+        "gold.churn_score",              # depende de todas as silver
+    ]
+
+    for view in views:
+        try:
+            log.info(f"  Atualizando {view} ...")
+            with conn.cursor() as cur:
+                cur.execute(f"REFRESH MATERIALIZED VIEW CONCURRENTLY {view};")
+            conn.commit()
+            log.info(f"  ✓ {view} atualizada")
+        except Exception as exc:
+            conn.rollback()
+            if "does not exist" in str(exc):
+                log.warning(
+                    f"  {view} ainda não existe — execute o medallion_ddl.sql primeiro."
+                )
+            else:
+                log.warning(f"  Não foi possível atualizar {view}: {exc}")
 
 
 # ─── Pipeline principal ───────────────────────────────────────────────────────
@@ -234,19 +272,8 @@ def run(data_dir: str = "data") -> None:
                 log.error(f"└─ ✗ Erro em {config.table_name}: {exc}\n")
                 summary.append({"table": config.table_name, "rows": 0, "status": f"erro: {exc}"})
 
-        # Atualiza identity_resolution ao final (só se já existir no banco)
-        try:
-            refresh_identity_resolution(conn)
-            conn.commit()
-        except Exception as exc:
-            conn.rollback()
-            if "does not exist" in str(exc):
-                log.warning(
-                    "  identity_resolution ainda não existe — execute o bloco "
-                    "da MATERIALIZED VIEW no ddl_supabase.sql quando for rodar o score."
-                )
-            else:
-                log.warning(f"  Não foi possível atualizar identity_resolution: {exc}")
+        # Atualiza todas as materialized views silver e gold
+        refresh_materialized_views(conn)
 
         # Resumo final
         elapsed_total = round(time.perf_counter() - start_total, 2)
