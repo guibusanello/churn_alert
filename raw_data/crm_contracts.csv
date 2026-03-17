@@ -1,0 +1,166 @@
+contract_id,account_id,plan,start_date,end_date,arr,renewal_status,payment_status,auto_renew,contract_owner
+CTR-ACC-0001-01,ACC-0001,Growth,2023-10-01,2025-09-30,11532,Not Renewed,Overdue,True,Ana Lima
+CTR-ACC-0001-02,ACC-0001,Growth,2022-11-15,2023-05-14,11532,Pending,Current,False,Bruno Alves
+CTR-ACC-0002-01,ACC-0002,Starter,2024-05-18,2025-05-18,3216,In Negotiation,Current,True,Juliana Matos
+CTR-ACC-0002-02,ACC-0002,Starter,2022-08-22,2023-08-22,3216,In Negotiation,Current,False,Juliana Matos
+CTR-ACC-0002-03,ACC-0002,Starter,2023-09-24,2024-03-22,3216,Renewed,Current,True,Ana Lima
+CTR-ACC-0003-01,ACC-0003,Starter,2023-09-10,2024-03-08,5028,Renewed,Overdue,False,Fernanda Rocha
+CTR-ACC-0004-01,ACC-0004,Enterprise,2022-01-16,2023-01-16,59460,In Negotiation,Current,False,Juliana Matos
+CTR-ACC-0005-01,ACC-0005,Starter,2023-04-17,2025-04-16,4056,Not Renewed,Current,True,Bruno Alves
+CTR-ACC-0005-02,ACC-0005,Starter,2022-02-08,2023-02-08,4056,Pending,Overdue,False,Juliana Matos
+CTR-ACC-0005-03,ACC-0005,Starter,2024-04-08,2026-04-08,4056,In Negotiation,Current,False,Ana Lima
+CTR-ACC-0006-01,ACC-0006,Starter,2022-12-18,2024-12-17,4212,In Negotiation,Overdue,False,Ana Lima
+CTR-ACC-0006-02,ACC-0006,Starter,2024-06-13,2024-12-10,4212,Renewed,Current,False,Juliana Matos
+CTR-ACC-0007-01,ACC-0007,Professional,2024-03-21,2025-03-21,24444,Not Renewed,Current,True,Ana Lima
+CTR-ACC-0008-01,ACC-0008,Starter,2022-08-22,2024-08-21,4104,Renewed,Overdue,False,Fernanda Rocha
+CTR-ACC-0008-02,ACC-0008,Starter,2022-10-30,2023-04-28,4104,Pending,Current,True,Carlos Souza
+CTR-ACC-0008-03,ACC-0008,Starter,2022-11-10,2024-11-09,4104,Pending,Current,False,Bruno Alves
+CTR-ACC-0009-01,ACC-0009,Professional,2024-07-08,2026-07-08,24624,Not Renewed,Overdue,False,Carlos Souza
+CTR-ACC-0009-02,ACC-0009,Professional,2024-06-19,2024-12-16,24624,In Negotiation,Current,False,Fernanda Rocha
+CTR-ACC-0009-03,ACC-0009,Professional,2022-04-26,2023-04-26,24624,Pending,Current,False,Ana Lima
+CTR-ACC-0010-01,ACC-0010,Professional,2024-01-26,2025-01-25,25944,Pending,Current,True,Juliana Matos
+CTR-ACC-0011-01,ACC-0011,Professional,2024-11-04,2025-11-04,24840,In Negotiation,Current,True,Bruno Alves
+CTR-ACC-0011-02,ACC-0011,Professional,2023-01-21,2024-01-21,24840,In Negotiation,Current,True,Bruno Alves
+CTR-ACC-0011-03,ACC-0011,Professional,2022-07-31,2023-07-31,24840,Pending,Current,True,Ana Lima
+CTR-ACC-0012-01,ACC-0012,Growth,2024-06-15,2025-06-15,11460,Renewed,Current,False,Bruno Alves
+CTR-ACC-0013-01,ACC-0013,Professional,2023-11-24,2025-11-23,23976,Pending,Overdue,False,Ana Lima
+CTR-ACC-0013-02,ACC-0013,Professional,2023-11-07,2024-05-05,23976,In Negotiation,Current,True,Fernanda Rocha
+CTR-ACC-0014-01,ACC-0014,Starter,2022-10-17,2023-10-17,3528,Not Renewed,Overdue,False,Carlos Souza
+CTR-ACC-0015-01,ACC-0015,Starter,2022-06-23,2023-06-23,5904,In Negotiation,Current,False,Carlos Souza
+CTR-ACC-0015-02,ACC-0015,Starter,2022-07-11,2024-07-10,5904,In Negotiation,Current,True,Fernanda Rocha
+CTR-ACC-0015-03,ACC-0015,Starter,2023-09-25,2024-03-23,5904,Renewed,Current,False,Carlos Souza
+CTR-ACC-0016-01,ACC-0016,Enterprise,2022-10-09,2023-04-07,61968,Pending,Current,True,Juliana Matos
+CTR-ACC-0017-01,ACC-0017,Professional,2022-03-19,2024-03-18,23808,Not Renewed,Overdue,True,Juliana Matos
+CTR-ACC-0017-02,ACC-0017,Professional,2024-02-11,2024-08-09,23808,Renewed,Current,True,Bruno Alves
+CTR-ACC-0017-03,ACC-0017,Professional,2022-03-31,2023-03-31,23808,Not Renewed,Current,True,Bruno Alves
+CTR-ACC-0018-01,ACC-0018,Growth,2023-08-07,2025-08-06,10176,In Negotiation,Current,True,Fernanda Rocha
+CTR-ACC-0018-02,ACC-0018,Growth,2024-08-18,2025-02-14,10176,Not Renewed,Current,False,Bruno Alves
+CTR-ACC-0018-03,ACC-0018,Growth,2023-08-01,2024-07-31,10176,In Negotiation,Overdue,True,Juliana Matos
+CTR-ACC-0019-01,ACC-0019,Professional,2023-05-28,2023-11-24,25836,In Negotiation,Overdue,True,Juliana Matos
+CTR-ACC-0020-01,ACC-0020,Starter,2023-08-07,2024-02-03,5808,Renewed,Current,True,Bruno Alves
+CTR-ACC-0021-01,ACC-0021,Professional,2023-03-31,2024-03-30,23532,Not Renewed,Overdue,False,Ana Lima
+CTR-ACC-0022-01,ACC-0022,Starter,2024-10-25,2025-10-25,3036,Renewed,Current,True,Fernanda Rocha
+CTR-ACC-0022-02,ACC-0022,Starter,2023-04-05,2023-10-02,3036,Not Renewed,Overdue,False,Carlos Souza
+CTR-ACC-0023-01,ACC-0023,Starter,2022-03-20,2023-03-20,3720,In Negotiation,Current,True,Bruno Alves
+CTR-ACC-0024-01,ACC-0024,Professional,2022-01-11,2022-07-10,25776,Pending,Current,True,Juliana Matos
+CTR-ACC-0024-02,ACC-0024,Professional,2024-05-16,2024-11-12,25776,Not Renewed,Current,True,Ana Lima
+CTR-ACC-0025-01,ACC-0025,Enterprise,2024-05-09,2026-05-09,59700,In Negotiation,Current,False,Juliana Matos
+CTR-ACC-0026-01,ACC-0026,Growth,2022-02-03,2024-02-03,9024,Renewed,Overdue,False,Bruno Alves
+CTR-ACC-0026-02,ACC-0026,Growth,2022-01-04,2024-01-04,9024,Not Renewed,Current,False,Carlos Souza
+CTR-ACC-0026-03,ACC-0026,Growth,2022-06-25,2024-06-24,9024,Not Renewed,Current,True,Bruno Alves
+CTR-ACC-0027-01,ACC-0027,Professional,2022-03-31,2024-03-30,25764,In Negotiation,Overdue,False,Ana Lima
+CTR-ACC-0027-02,ACC-0027,Professional,2024-01-02,2024-06-30,25764,Not Renewed,Current,True,Juliana Matos
+CTR-ACC-0028-01,ACC-0028,Starter,2023-11-12,2024-05-10,4020,Pending,Current,False,Carlos Souza
+CTR-ACC-0028-02,ACC-0028,Starter,2024-08-09,2026-08-09,4020,In Negotiation,Current,True,Ana Lima
+CTR-ACC-0028-03,ACC-0028,Starter,2024-07-26,2025-01-22,4020,Not Renewed,Current,True,Ana Lima
+CTR-ACC-0029-01,ACC-0029,Growth,2023-09-28,2025-09-27,11892,In Negotiation,Overdue,False,Fernanda Rocha
+CTR-ACC-0029-02,ACC-0029,Growth,2022-03-16,2024-03-15,11892,Renewed,Current,True,Fernanda Rocha
+CTR-ACC-0030-01,ACC-0030,Professional,2022-09-12,2023-09-12,24288,In Negotiation,Overdue,False,Bruno Alves
+CTR-ACC-0030-02,ACC-0030,Professional,2023-11-26,2024-05-24,24288,In Negotiation,Current,False,Juliana Matos
+CTR-ACC-0031-01,ACC-0031,Professional,2022-06-19,2024-06-18,24216,In Negotiation,Current,True,Juliana Matos
+CTR-ACC-0031-02,ACC-0031,Professional,2023-08-25,2024-08-24,24216,Pending,Current,False,Fernanda Rocha
+CTR-ACC-0032-01,ACC-0032,Professional,2024-05-22,2024-11-18,24228,In Negotiation,Current,True,Fernanda Rocha
+CTR-ACC-0032-02,ACC-0032,Professional,2024-06-09,2025-06-09,24228,Pending,Current,False,Fernanda Rocha
+CTR-ACC-0033-01,ACC-0033,Starter,2022-11-24,2023-05-23,3372,Renewed,Overdue,False,Ana Lima
+CTR-ACC-0033-02,ACC-0033,Starter,2022-09-16,2023-03-15,3372,Renewed,Overdue,False,Fernanda Rocha
+CTR-ACC-0033-03,ACC-0033,Starter,2024-02-24,2026-02-23,3372,Pending,Current,False,Fernanda Rocha
+CTR-ACC-0034-01,ACC-0034,Enterprise,2024-06-28,2024-12-25,60852,Renewed,Current,False,Fernanda Rocha
+CTR-ACC-0034-02,ACC-0034,Enterprise,2023-07-25,2024-01-21,60852,Pending,Current,True,Bruno Alves
+CTR-ACC-0035-01,ACC-0035,Starter,2024-03-03,2026-03-03,3444,Pending,Current,False,Bruno Alves
+CTR-ACC-0035-02,ACC-0035,Starter,2023-03-16,2025-03-15,3444,Not Renewed,Current,False,Carlos Souza
+CTR-ACC-0035-03,ACC-0035,Starter,2022-09-09,2023-03-08,3444,Pending,Current,False,Ana Lima
+CTR-ACC-0036-01,ACC-0036,Professional,2023-10-17,2025-10-16,24768,Not Renewed,Overdue,False,Fernanda Rocha
+CTR-ACC-0036-02,ACC-0036,Professional,2022-11-19,2024-11-18,24768,Renewed,Overdue,True,Ana Lima
+CTR-ACC-0036-03,ACC-0036,Professional,2023-02-16,2023-08-15,24768,Renewed,Overdue,True,Fernanda Rocha
+CTR-ACC-0037-01,ACC-0037,Professional,2024-01-26,2025-01-25,25416,Renewed,Current,True,Ana Lima
+CTR-ACC-0037-02,ACC-0037,Professional,2023-09-26,2024-09-25,25416,In Negotiation,Current,False,Juliana Matos
+CTR-ACC-0037-03,ACC-0037,Professional,2022-06-01,2022-11-28,25416,Not Renewed,Current,False,Bruno Alves
+CTR-ACC-0038-01,ACC-0038,Growth,2024-11-25,2025-11-25,9864,Renewed,Overdue,True,Carlos Souza
+CTR-ACC-0038-02,ACC-0038,Growth,2024-06-05,2026-06-05,9864,Pending,Overdue,True,Fernanda Rocha
+CTR-ACC-0038-03,ACC-0038,Growth,2022-12-04,2023-06-02,9864,Not Renewed,Overdue,True,Fernanda Rocha
+CTR-ACC-0039-01,ACC-0039,Professional,2023-08-05,2024-02-01,24072,Not Renewed,Current,False,Carlos Souza
+CTR-ACC-0039-02,ACC-0039,Professional,2023-09-13,2025-09-12,24072,Pending,Current,True,Juliana Matos
+CTR-ACC-0039-03,ACC-0039,Professional,2022-11-12,2023-05-11,24072,Not Renewed,Overdue,True,Ana Lima
+CTR-ACC-0040-01,ACC-0040,Professional,2022-04-04,2024-04-03,25500,Not Renewed,Current,False,Juliana Matos
+CTR-ACC-0041-01,ACC-0041,Starter,2022-03-04,2023-03-04,3756,Not Renewed,Current,False,Bruno Alves
+CTR-ACC-0041-02,ACC-0041,Starter,2023-05-17,2025-05-16,3756,In Negotiation,Current,True,Ana Lima
+CTR-ACC-0041-03,ACC-0041,Starter,2022-11-20,2023-11-20,3756,In Negotiation,Current,True,Fernanda Rocha
+CTR-ACC-0042-01,ACC-0042,Professional,2022-10-22,2023-10-22,26196,Not Renewed,Overdue,False,Bruno Alves
+CTR-ACC-0042-02,ACC-0042,Professional,2022-09-25,2023-09-25,26196,Pending,Current,False,Ana Lima
+CTR-ACC-0042-03,ACC-0042,Professional,2023-07-02,2024-07-01,26196,Renewed,Current,True,Fernanda Rocha
+CTR-ACC-0043-01,ACC-0043,Growth,2024-05-06,2024-11-02,9996,Renewed,Overdue,False,Carlos Souza
+CTR-ACC-0043-02,ACC-0043,Growth,2022-11-23,2023-11-23,9996,In Negotiation,Current,False,Bruno Alves
+CTR-ACC-0044-01,ACC-0044,Starter,2022-07-04,2023-07-04,5640,In Negotiation,Overdue,True,Juliana Matos
+CTR-ACC-0045-01,ACC-0045,Growth,2022-04-10,2022-10-07,9804,Not Renewed,Current,False,Fernanda Rocha
+CTR-ACC-0045-02,ACC-0045,Growth,2022-01-17,2022-07-16,9804,In Negotiation,Current,False,Fernanda Rocha
+CTR-ACC-0046-01,ACC-0046,Starter,2024-01-20,2024-07-18,4680,In Negotiation,Current,True,Fernanda Rocha
+CTR-ACC-0046-02,ACC-0046,Starter,2023-08-15,2024-02-11,4680,In Negotiation,Current,False,Juliana Matos
+CTR-ACC-0047-01,ACC-0047,Growth,2022-09-01,2023-02-28,10548,Pending,Current,False,Juliana Matos
+CTR-ACC-0047-02,ACC-0047,Growth,2024-01-19,2024-07-17,10548,Renewed,Current,False,Juliana Matos
+CTR-ACC-0047-03,ACC-0047,Growth,2022-03-24,2022-09-20,10548,Pending,Current,False,Bruno Alves
+CTR-ACC-0048-01,ACC-0048,Starter,2024-07-24,2025-01-20,5640,Renewed,Current,False,Carlos Souza
+CTR-ACC-0048-02,ACC-0048,Starter,2024-03-15,2026-03-15,5640,Not Renewed,Current,False,Juliana Matos
+CTR-ACC-0048-03,ACC-0048,Starter,2023-09-06,2024-09-05,5640,Pending,Current,True,Bruno Alves
+CTR-ACC-0049-01,ACC-0049,Enterprise,2023-09-23,2025-09-22,61404,Pending,Current,False,Juliana Matos
+CTR-ACC-0049-02,ACC-0049,Enterprise,2023-04-12,2025-04-11,61404,Pending,Current,True,Juliana Matos
+CTR-ACC-0049-03,ACC-0049,Enterprise,2024-02-18,2024-08-16,61404,Renewed,Current,True,Carlos Souza
+CTR-ACC-0050-01,ACC-0050,Growth,2024-06-22,2025-06-22,10164,In Negotiation,Current,True,Bruno Alves
+CTR-ACC-0051-01,ACC-0051,Growth,2024-08-23,2026-08-23,10524,Pending,Overdue,True,Juliana Matos
+CTR-ACC-0051-02,ACC-0051,Growth,2023-10-28,2025-10-27,10524,In Negotiation,Current,False,Carlos Souza
+CTR-ACC-0051-03,ACC-0051,Growth,2024-07-30,2026-07-30,10524,Not Renewed,Current,False,Juliana Matos
+CTR-ACC-0052-01,ACC-0052,Starter,2023-01-29,2023-07-28,4020,Not Renewed,Current,True,Fernanda Rocha
+CTR-ACC-0052-02,ACC-0052,Starter,2023-08-15,2025-08-14,4020,Renewed,Current,False,Fernanda Rocha
+CTR-ACC-0053-01,ACC-0053,Enterprise,2023-12-16,2025-12-15,62064,Not Renewed,Current,False,Bruno Alves
+CTR-ACC-0053-02,ACC-0053,Enterprise,2023-12-08,2024-06-05,62064,Not Renewed,Current,True,Fernanda Rocha
+CTR-ACC-0054-01,ACC-0054,Enterprise,2023-06-10,2025-06-09,60744,In Negotiation,Current,False,Juliana Matos
+CTR-ACC-0054-02,ACC-0054,Enterprise,2023-07-11,2024-01-07,60744,Pending,Current,True,Carlos Souza
+CTR-ACC-0055-01,ACC-0055,Growth,2023-04-08,2025-04-07,11076,Renewed,Current,False,Fernanda Rocha
+CTR-ACC-0056-01,ACC-0056,Professional,2024-08-25,2025-02-21,25344,Renewed,Current,True,Bruno Alves
+CTR-ACC-0056-02,ACC-0056,Professional,2024-09-01,2025-09-01,25344,Renewed,Overdue,False,Fernanda Rocha
+CTR-ACC-0056-03,ACC-0056,Professional,2023-08-08,2025-08-07,25344,Pending,Overdue,True,Juliana Matos
+CTR-ACC-0057-01,ACC-0057,Professional,2022-03-18,2022-09-14,25344,In Negotiation,Overdue,True,Ana Lima
+CTR-ACC-0058-01,ACC-0058,Enterprise,2024-10-11,2025-04-09,60288,Not Renewed,Overdue,True,Fernanda Rocha
+CTR-ACC-0058-02,ACC-0058,Enterprise,2022-08-08,2023-08-08,60288,Not Renewed,Current,False,Carlos Souza
+CTR-ACC-0059-01,ACC-0059,Enterprise,2024-08-16,2025-08-16,61944,Renewed,Overdue,False,Carlos Souza
+CTR-ACC-0059-02,ACC-0059,Enterprise,2024-07-28,2026-07-28,61944,Not Renewed,Overdue,True,Fernanda Rocha
+CTR-ACC-0059-03,ACC-0059,Enterprise,2023-08-28,2025-08-27,61944,Renewed,Current,False,Bruno Alves
+CTR-ACC-0060-01,ACC-0060,Professional,2023-11-03,2024-05-01,24336,In Negotiation,Current,True,Carlos Souza
+CTR-ACC-0060-02,ACC-0060,Professional,2024-09-04,2025-09-04,24336,Renewed,Current,False,Carlos Souza
+CTR-ACC-0060-03,ACC-0060,Professional,2024-07-03,2025-07-03,24336,Not Renewed,Current,True,Fernanda Rocha
+CTR-ACC-0061-01,ACC-0061,Growth,2024-01-07,2026-01-06,10608,Renewed,Current,True,Bruno Alves
+CTR-ACC-0061-02,ACC-0061,Growth,2023-09-21,2024-03-19,10608,In Negotiation,Current,False,Ana Lima
+CTR-ACC-0061-03,ACC-0061,Growth,2023-08-28,2024-08-27,10608,Renewed,Current,True,Bruno Alves
+CTR-ACC-0062-01,ACC-0062,Professional,2024-07-20,2026-07-20,25704,Not Renewed,Current,False,Juliana Matos
+CTR-ACC-0063-01,ACC-0063,Growth,2023-03-24,2023-09-20,10380,Pending,Current,False,Ana Lima
+CTR-ACC-0063-02,ACC-0063,Growth,2022-08-18,2023-02-14,10380,Renewed,Current,True,Carlos Souza
+CTR-ACC-0063-03,ACC-0063,Growth,2023-11-03,2025-11-02,10380,In Negotiation,Current,True,Juliana Matos
+CTR-ACC-0064-01,ACC-0064,Enterprise,2022-07-06,2024-07-05,60384,In Negotiation,Overdue,False,Carlos Souza
+CTR-ACC-0064-02,ACC-0064,Enterprise,2024-11-17,2025-11-17,60384,In Negotiation,Current,False,Fernanda Rocha
+CTR-ACC-0065-01,ACC-0065,Growth,2022-02-14,2023-02-14,10500,Not Renewed,Overdue,True,Juliana Matos
+CTR-ACC-0065-02,ACC-0065,Growth,2022-05-30,2022-11-26,10500,In Negotiation,Current,True,Juliana Matos
+CTR-ACC-0065-03,ACC-0065,Growth,2022-05-04,2022-10-31,10500,In Negotiation,Current,False,Carlos Souza
+CTR-ACC-0066-01,ACC-0066,Enterprise,2024-05-10,2025-05-10,62100,In Negotiation,Current,False,Bruno Alves
+CTR-ACC-0067-01,ACC-0067,Professional,2022-09-30,2024-09-29,25488,Not Renewed,Current,False,Juliana Matos
+CTR-ACC-0068-01,ACC-0068,Starter,2023-04-02,2023-09-29,4956,Pending,Overdue,False,Juliana Matos
+CTR-ACC-0069-01,ACC-0069,Professional,2024-02-16,2024-08-14,25884,Renewed,Current,True,Fernanda Rocha
+CTR-ACC-0069-02,ACC-0069,Professional,2023-01-22,2025-01-21,25884,Pending,Current,False,Juliana Matos
+CTR-ACC-0070-01,ACC-0070,Enterprise,2023-05-08,2023-11-04,59784,Pending,Current,True,Bruno Alves
+CTR-ACC-0071-01,ACC-0071,Starter,2022-04-10,2022-10-07,4440,Pending,Current,True,Juliana Matos
+CTR-ACC-0071-02,ACC-0071,Starter,2023-03-21,2023-09-17,4440,Renewed,Current,False,Carlos Souza
+CTR-ACC-0071-03,ACC-0071,Starter,2023-10-16,2025-10-15,4440,Not Renewed,Current,True,Juliana Matos
+CTR-ACC-0072-01,ACC-0072,Starter,2024-04-26,2025-04-26,3168,Not Renewed,Current,True,Bruno Alves
+CTR-ACC-0073-01,ACC-0073,Enterprise,2024-10-12,2025-04-10,61296,Not Renewed,Overdue,False,Juliana Matos
+CTR-ACC-0073-02,ACC-0073,Enterprise,2023-10-15,2025-10-14,61296,In Negotiation,Current,False,Bruno Alves
+CTR-ACC-0073-03,ACC-0073,Enterprise,2023-01-12,2025-01-11,61296,In Negotiation,Current,True,Fernanda Rocha
+CTR-ACC-0074-01,ACC-0074,Growth,2022-10-23,2023-10-23,11604,Pending,Current,False,Juliana Matos
+CTR-ACC-0074-02,ACC-0074,Growth,2022-10-02,2023-10-02,11604,Renewed,Current,False,Ana Lima
+CTR-ACC-0074-03,ACC-0074,Growth,2024-07-10,2025-07-10,11604,Pending,Current,True,Ana Lima
+CTR-ACC-0075-01,ACC-0075,Enterprise,2024-02-12,2026-02-11,61428,Pending,Overdue,True,Juliana Matos
+CTR-ACC-0075-02,ACC-0075,Enterprise,2023-03-21,2024-03-20,61428,Renewed,Overdue,False,Fernanda Rocha
+CTR-ACC-0076-01,ACC-0076,Starter,2023-03-10,2023-09-06,3168,Pending,Overdue,False,Carlos Souza
+CTR-ACC-0077-01,ACC-0077,Enterprise,2023-02-23,2024-02-23,62352,Renewed,Current,False,Bruno Alves
+CTR-ACC-0077-02,ACC-0077,Enterprise,2024-08-12,2026-08-12,62352,Not Renewed,Current,False,Juliana Matos
+CTR-ACC-0077-03,ACC-0077,Enterprise,2024-10-15,2025-10-15,62352,Pending,Overdue,False,Fernanda Rocha
+CTR-ACC-0078-01,ACC-0078,Professional,2024-01-30,2025-01-29,23736,In Negotiation,Current,True,Carlos Souza
+CTR-ACC-0079-01,ACC-0079,Professional,2023-06-19,2025-06-18,23472,In Negotiation,Current,True,Fernanda Rocha
+CTR-ACC-0080-01,ACC-0080,Professional,2024-02-17,2026-02-16,23664,Renewed,Current,False,Fernanda Rocha

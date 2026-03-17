@@ -1,0 +1,439 @@
+ticket_id,org_id,requester_email,subject,category,priority,status,created_date,resolved_date,resolution_days,satisfaction,assigned_agent,reopened
+TKT-00001,520521,joao@company001.com,Issue with integration,Billing,High,Open,2024-11-09,2024-11-25,16,,Agente A,False
+TKT-00002,520521,julia@company001.com,Issue with performance,Billing,High,Closed,2024-09-21,2024-10-14,23,4,Agente D,False
+TKT-00003,520521,pedro@company001.com,Issue with performance,Integration,High,In Progress,2024-07-29,2024-08-27,29,,Agente D,False
+TKT-00004,520521,fernanda@company001.com,Issue with data export,Onboarding,Medium,In Progress,2024-07-15,2024-07-26,11,2,Agente C,True
+TKT-00005,520521,rafael@company001.com,Issue with report,Integration,Low,Open,2024-12-20,2024-12-24,4,3,Agente A,False
+TKT-00006,520521,pedro@company001.com,Issue with dashboard,Billing,Low,Resolved,2024-09-22,2024-10-16,24,,Agente D,False
+TKT-00007,520521,lucas@company001.com,Issue with data export,Bug,Low,In Progress,2024-06-17,,,1,Agente C,True
+TKT-00008,520521,rafael@company001.com,Issue with data export,Bug,High,In Progress,2024-10-21,2024-10-31,10,,Agente D,False
+TKT-00009,520521,fernanda@company001.com,Issue with data export,Performance,Critical,Resolved,2024-12-12,2024-12-15,3,,Agente C,False
+TKT-00010,520521,fernanda@company001.com,Issue with report,Billing,Low,Resolved,2024-11-06,2024-11-21,15,3,Agente C,False
+TKT-00011,520521,camila@company001.com,Issue with login,Integration,Low,Closed,2024-08-06,,,5,Agente B,True
+TKT-00012,520521,ana@company001.com,Issue with integration,Performance,Medium,Resolved,2025-01-31,2025-03-02,30,2,Agente A,False
+TKT-00013,520521,ana@company001.com,Issue with data export,Feature Request,Medium,Closed,2024-10-29,2024-10-31,2,,Agente C,False
+TKT-00014,520521,maria@company001.com,Issue with billing,Billing,High,Closed,2025-02-02,2025-02-17,15,,Agente B,False
+TKT-00015,520521,lucas@company001.com,Issue with integration,Performance,High,Resolved,2024-11-18,2024-11-26,8,5,Agente A,False
+TKT-00021,411120,pedro@company002.com,Issue with integration,Integration,Low,Closed,2024-06-24,2024-07-22,28,,Agente D,True
+TKT-00022,411120,lucas@company002.com,Issue with integration,Integration,Low,Open,2024-09-05,,,,Agente A,False
+TKT-00023,411120,ana@company002.com,Issue with report,Onboarding,Critical,Closed,2025-02-25,,,,Agente A,False
+TKT-00061,577110,camila@company004.com.br,Issue with performance,Bug,Low,Open,2024-09-23,,,,Agente B,True
+TKT-00062,577110,fernanda@company004.com.br,Issue with login,Feature Request,High,In Progress,2024-11-24,2024-12-13,19,,Agente D,False
+TKT-00063,577110,maria@company004.com.br,Issue with data export,Feature Request,Critical,Closed,2025-01-22,2025-01-24,2,2,Agente D,False
+TKT-00064,577110,julia@company004.com.br,Issue with login,Integration,Medium,Closed,2024-10-15,2024-10-29,14,2,Agente A,False
+TKT-00081,328275,pedro@company005.com.br,Issue with data export,Billing,High,Open,2025-01-22,,,,Agente C,False
+TKT-00082,328275,maria@company005.com.br,Issue with data export,Billing,Low,In Progress,2024-12-28,2025-01-08,11,2,Agente C,True
+TKT-00083,328275,rafael@company005.com.br,Issue with performance,Integration,Low,Closed,2024-11-07,2024-11-15,8,4,Agente A,False
+TKT-00101,543555,rafael@company006.com.br,Issue with data export,Onboarding,High,Closed,2024-10-20,,,,Agente C,True
+TKT-00102,543555,pedro@company006.com.br,Issue with login,Performance,High,Open,2025-01-16,2025-01-23,7,1,Agente A,True
+TKT-00103,543555,lucas@company006.com.br,Issue with integration,Bug,Critical,Resolved,2025-03-07,,,1,Agente D,False
+TKT-00104,543555,julia@company006.com.br,Issue with login,Onboarding,Low,In Progress,2024-11-05,2024-11-10,5,,Agente D,False
+TKT-00105,543555,lucas@company006.com.br,Issue with dashboard,Integration,Low,Resolved,2024-10-25,,,2,Agente B,False
+TKT-00106,543555,pedro@company006.com.br,Issue with report,Performance,Medium,Open,2024-09-14,,,2,Agente D,False
+TKT-00107,543555,lucas@company006.com.br,Issue with billing,Performance,Medium,Closed,2024-10-03,2024-10-19,16,,Agente A,True
+TKT-00108,543555,pedro@company006.com.br,Issue with performance,Onboarding,Medium,Open,2025-01-29,2025-02-21,23,,Agente A,False
+TKT-00121,360735,maria@company007.com,Issue with login,Onboarding,Low,Resolved,2024-09-03,2024-09-19,16,,Agente C,True
+TKT-00122,360735,maria@company007.com,Issue with data export,Bug,Medium,Closed,2024-08-30,2024-09-03,4,,Agente A,False
+TKT-00123,360735,pedro@company007.com,Issue with performance,Integration,Medium,Resolved,2024-06-10,,,,Agente C,True
+TKT-00124,360735,rafael@company007.com,Issue with integration,Integration,Low,Closed,2024-11-26,2024-12-22,26,4,Agente C,False
+TKT-00125,360735,maria@company007.com,Issue with integration,Bug,High,Closed,2024-11-22,2024-12-17,25,,Agente C,False
+TKT-00126,360735,fernanda@company007.com,Issue with integration,Onboarding,Critical,Resolved,2024-12-14,2024-12-19,5,,Agente B,False
+TKT-00127,360735,carlos@company007.com,Issue with dashboard,Bug,High,In Progress,2025-01-20,2025-01-28,8,4,Agente C,False
+TKT-00128,360735,pedro@company007.com,Issue with performance,Integration,Medium,Closed,2024-10-28,2024-11-19,22,2,Agente D,False
+TKT-00129,360735,ana@company007.com,Issue with login,Billing,Critical,Open,2024-11-30,2024-12-10,10,5,Agente D,False
+TKT-00130,360735,ana@company007.com,Issue with report,Performance,Medium,In Progress,2024-10-01,2024-10-16,15,,Agente A,False
+TKT-00131,360735,maria@company007.com,Issue with data export,Billing,Low,Resolved,2024-12-07,2024-12-27,20,3,Agente D,False
+TKT-00132,360735,fernanda@company007.com,Issue with report,Bug,Medium,In Progress,2024-10-02,2024-10-24,22,2,Agente B,False
+TKT-00133,360735,ana@company007.com,Issue with dashboard,Bug,Medium,Resolved,2024-11-03,2024-11-06,3,,Agente D,False
+TKT-00134,360735,joao@company007.com,Issue with integration,Bug,Medium,In Progress,2024-08-15,2024-08-20,5,,Agente A,True
+TKT-00135,360735,maria@company007.com,Issue with login,Integration,High,Open,2025-03-09,,,5,Agente B,True
+TKT-00141,163556,julia@company008.com,Issue with report,Bug,Low,Open,2024-08-12,2024-08-31,19,,Agente A,False
+TKT-00142,163556,rafael@company008.com,Issue with report,Onboarding,Medium,Resolved,2024-12-17,2024-12-29,12,,Agente B,False
+TKT-00143,163556,rafael@company008.com,Issue with data export,Feature Request,Medium,In Progress,2024-09-28,,,,Agente C,False
+TKT-00161,922157,lucas@company009.co,Issue with data export,Performance,Low,Resolved,2024-10-01,,,,Agente C,True
+TKT-00162,922157,rafael@company009.co,Issue with integration,Performance,High,Closed,2024-09-09,,,4,Agente D,False
+TKT-00163,922157,pedro@company009.co,Issue with billing,Bug,Medium,Resolved,2024-10-28,,,4,Agente A,False
+TKT-00164,922157,fernanda@company009.co,Issue with login,Integration,High,Open,2024-11-07,2024-11-24,17,,Agente D,True
+TKT-00181,609231,fernanda@company010.com,Issue with integration,Feature Request,Medium,In Progress,2024-10-10,2024-10-24,14,,Agente D,False
+TKT-00182,609231,rafael@company010.com,Issue with report,Bug,Critical,Resolved,2025-02-23,2025-03-24,29,1,Agente D,False
+TKT-00221,551989,camila@company012.com,Issue with data export,Bug,Low,In Progress,2024-06-25,,,4,Agente B,False
+TKT-00222,551989,joao@company012.com,Issue with report,Integration,Medium,Open,2024-10-09,2024-11-07,29,5,Agente D,False
+TKT-00223,551989,rafael@company012.com,Issue with performance,Billing,High,Closed,2024-10-24,,,,Agente B,False
+TKT-00224,551989,camila@company012.com,Issue with data export,Performance,Low,In Progress,2025-02-28,2025-03-14,14,,Agente A,False
+TKT-00225,551989,pedro@company012.com,Issue with dashboard,Onboarding,Low,Resolved,2025-02-22,2025-03-19,25,,Agente B,False
+TKT-00226,551989,pedro@company012.com,Issue with dashboard,Onboarding,Low,Open,2024-07-08,2024-07-28,20,,Agente D,False
+TKT-00227,551989,lucas@company012.com,Issue with data export,Onboarding,Critical,Resolved,2025-02-24,2025-03-17,21,,Agente D,True
+TKT-00228,551989,fernanda@company012.com,Issue with login,Feature Request,Low,Closed,2024-08-11,2024-09-05,25,4,Agente D,False
+TKT-00229,551989,carlos@company012.com,Issue with integration,Billing,High,In Progress,2024-08-28,2024-09-24,27,2,Agente A,True
+TKT-00230,551989,carlos@company012.com,Issue with billing,Onboarding,High,Resolved,2024-06-26,2024-07-11,15,3,Agente D,False
+TKT-00231,551989,rafael@company012.com,Issue with login,Billing,Critical,In Progress,2025-02-22,2025-02-25,3,,Agente C,False
+TKT-00232,551989,maria@company012.com,Issue with login,Performance,High,Open,2024-09-25,2024-10-05,10,,Agente D,True
+TKT-00241,668532,camila@company013.com.br,Issue with billing,Integration,Critical,In Progress,2024-11-11,2024-11-26,15,5,Agente B,False
+TKT-00242,668532,camila@company013.com.br,Issue with report,Feature Request,Medium,In Progress,2024-06-11,2024-07-05,24,5,Agente A,False
+TKT-00243,668532,fernanda@company013.com.br,Issue with performance,Billing,Medium,In Progress,2024-07-12,2024-08-10,29,,Agente B,False
+TKT-00244,668532,carlos@company013.com.br,Issue with data export,Billing,High,Open,2025-02-21,,,2,Agente D,False
+TKT-00245,668532,julia@company013.com.br,Issue with billing,Feature Request,Low,Resolved,2024-11-11,2024-12-04,23,,Agente B,True
+TKT-00246,668532,pedro@company013.com.br,Issue with billing,Onboarding,Low,Resolved,2024-06-05,,,,Agente B,False
+TKT-00247,668532,rafael@company013.com.br,Issue with integration,Bug,High,Open,2024-12-26,2024-12-27,1,4,Agente D,False
+TKT-00248,668532,carlos@company013.com.br,Issue with performance,Onboarding,Low,Resolved,2025-03-04,2025-03-22,18,3,Agente A,False
+TKT-00249,668532,maria@company013.com.br,Issue with integration,Onboarding,Medium,Resolved,2024-11-14,2024-11-15,1,5,Agente D,False
+TKT-00250,668532,rafael@company013.com.br,Issue with integration,Performance,High,Closed,2024-12-14,2024-12-20,6,3,Agente C,False
+TKT-00261,585100,fernanda@company014.com.br,Issue with login,Integration,Medium,Resolved,2024-06-11,2024-07-07,26,1,Agente D,True
+TKT-00262,585100,fernanda@company014.com.br,Issue with integration,Bug,High,Closed,2024-12-26,,,1,Agente A,False
+TKT-00263,585100,lucas@company014.com.br,Issue with data export,Onboarding,Medium,Closed,2024-09-19,2024-10-16,27,2,Agente C,False
+TKT-00264,585100,julia@company014.com.br,Issue with report,Integration,High,Closed,2025-02-24,2025-03-12,16,5,Agente C,True
+TKT-00265,585100,carlos@company014.com.br,Issue with dashboard,Feature Request,Medium,Resolved,2024-09-05,,,,Agente B,True
+TKT-00266,585100,maria@company014.com.br,Issue with performance,Bug,Low,Closed,2024-07-17,2024-07-28,11,2,Agente B,False
+TKT-00267,585100,fernanda@company014.com.br,Issue with login,Integration,Low,In Progress,2024-10-08,2024-11-01,24,,Agente A,True
+TKT-00268,585100,maria@company014.com.br,Issue with report,Feature Request,Medium,Resolved,2025-03-02,,,,Agente A,True
+TKT-00269,585100,rafael@company014.com.br,Issue with login,Bug,Medium,Open,2025-01-02,2025-01-12,10,,Agente A,False
+TKT-00270,585100,julia@company014.com.br,Issue with billing,Onboarding,Low,Resolved,2024-08-08,2024-09-05,28,,Agente B,False
+TKT-00271,585100,rafael@company014.com.br,Issue with login,Feature Request,Medium,Resolved,2024-09-04,,,,Agente C,True
+TKT-00272,585100,camila@company014.com.br,Issue with login,Billing,High,In Progress,2024-07-01,2024-07-19,18,,Agente B,True
+TKT-00273,585100,joao@company014.com.br,Issue with dashboard,Performance,Low,Open,2024-09-02,2024-09-17,15,4,Agente A,False
+TKT-00301,544154,ana@company016.com.br,Issue with report,Bug,Low,Closed,2024-09-24,2024-10-17,23,5,Agente B,False
+TKT-00302,544154,maria@company016.com.br,Issue with performance,Bug,Critical,Closed,2024-07-28,,,2,Agente C,False
+TKT-00303,544154,rafael@company016.com.br,Issue with login,Onboarding,Low,In Progress,2024-10-18,,,,Agente A,False
+TKT-00304,544154,fernanda@company016.com.br,Issue with performance,Billing,Low,Open,2024-06-25,,,1,Agente C,False
+TKT-00305,544154,rafael@company016.com.br,Issue with data export,Onboarding,High,Closed,2024-08-07,,,,Agente D,True
+TKT-00306,544154,joao@company016.com.br,Issue with billing,Bug,High,In Progress,2024-12-16,,,4,Agente A,False
+TKT-00307,544154,carlos@company016.com.br,Issue with dashboard,Billing,Medium,Open,2025-01-29,2025-02-19,21,5,Agente D,False
+TKT-00308,544154,carlos@company016.com.br,Issue with login,Integration,Critical,In Progress,2025-01-24,2025-02-18,25,5,Agente C,True
+TKT-00309,544154,carlos@company016.com.br,Issue with billing,Performance,High,Closed,2024-09-29,2024-10-13,14,,Agente A,False
+TKT-00310,544154,lucas@company016.com.br,Issue with integration,Onboarding,Medium,Open,2024-07-31,,,3,Agente C,True
+TKT-00311,544154,lucas@company016.com.br,Issue with report,Onboarding,Low,Resolved,2024-06-27,,,5,Agente D,True
+TKT-00312,544154,rafael@company016.com.br,Issue with report,Onboarding,Low,Closed,2024-10-21,2024-11-17,27,,Agente C,False
+TKT-00313,544154,fernanda@company016.com.br,Issue with integration,Integration,Medium,In Progress,2024-08-31,,,,Agente A,False
+TKT-00314,544154,joao@company016.com.br,Issue with dashboard,Feature Request,High,Resolved,2024-12-08,2024-12-17,9,,Agente D,True
+TKT-00341,865990,carlos@company018.com.br,Issue with report,Onboarding,Medium,Resolved,2025-01-20,2025-01-27,7,,Agente D,False
+TKT-00342,865990,lucas@company018.com.br,Issue with report,Billing,High,Open,2024-07-31,2024-08-22,22,3,Agente B,True
+TKT-00343,865990,ana@company018.com.br,Issue with performance,Feature Request,Medium,In Progress,2024-07-08,,,3,Agente B,False
+TKT-00344,865990,carlos@company018.com.br,Issue with billing,Onboarding,Medium,In Progress,2024-12-24,,,,Agente D,False
+TKT-00361,163918,camila@company019.co,Issue with dashboard,Billing,Low,Resolved,2024-10-09,2024-10-11,2,,Agente B,False
+TKT-00362,163918,rafael@company019.co,Issue with login,Feature Request,Critical,Open,2025-03-05,,,3,Agente D,False
+TKT-00363,163918,carlos@company019.co,Issue with billing,Billing,Medium,Closed,2024-10-21,,,3,Agente C,True
+TKT-00364,163918,joao@company019.co,Issue with login,Performance,Medium,In Progress,2024-10-19,2024-11-11,23,5,Agente B,True
+TKT-00365,163918,camila@company019.co,Issue with integration,Billing,Medium,Closed,2024-12-16,,,2,Agente B,True
+TKT-00366,163918,fernanda@company019.co,Issue with data export,Integration,Low,Open,2024-10-28,,,,Agente D,False
+TKT-00367,163918,lucas@company019.co,Issue with data export,Billing,Low,Closed,2025-02-07,2025-02-14,7,2,Agente D,False
+TKT-00368,163918,ana@company019.co,Issue with performance,Onboarding,Critical,In Progress,2025-03-07,2025-03-15,8,,Agente C,True
+TKT-00369,163918,lucas@company019.co,Issue with integration,Feature Request,Medium,Open,2025-01-28,2025-02-01,4,,Agente A,False
+TKT-00370,163918,maria@company019.co,Issue with billing,Feature Request,Low,Open,2024-06-13,2024-07-09,26,,Agente C,False
+TKT-00371,163918,rafael@company019.co,Issue with performance,Bug,Low,In Progress,2025-01-19,2025-02-03,15,,Agente B,False
+TKT-00372,163918,maria@company019.co,Issue with data export,Performance,Low,Open,2025-02-28,2025-03-19,19,3,Agente A,False
+TKT-00373,163918,joao@company019.co,Issue with dashboard,Feature Request,High,Closed,2024-11-16,2024-12-07,21,4,Agente B,True
+TKT-00374,163918,pedro@company019.co,Issue with login,Billing,Medium,In Progress,2025-02-07,,,5,Agente D,False
+TKT-00375,163918,maria@company019.co,Issue with billing,Bug,Low,Open,2024-07-03,2024-07-05,2,,Agente B,False
+TKT-00381,347861,ana@company020.io,Issue with performance,Onboarding,High,Open,2025-02-13,2025-03-06,21,1,Agente C,False
+TKT-00382,347861,camila@company020.io,Issue with dashboard,Feature Request,Medium,Resolved,2024-11-25,2024-12-03,8,,Agente D,False
+TKT-00383,347861,rafael@company020.io,Issue with report,Billing,Medium,Resolved,2024-10-28,,,3,Agente C,True
+TKT-00384,347861,lucas@company020.io,Issue with integration,Performance,Low,Closed,2024-11-11,2024-11-14,3,3,Agente B,False
+TKT-00401,542374,maria@company021.com,Issue with report,Billing,Medium,Open,2024-10-31,2024-11-21,21,,Agente D,False
+TKT-00402,542374,lucas@company021.com,Issue with performance,Bug,Low,Resolved,2025-03-03,2025-03-31,28,5,Agente D,False
+TKT-00403,542374,rafael@company021.com,Issue with dashboard,Performance,Medium,Resolved,2025-01-08,2025-01-09,1,5,Agente A,False
+TKT-00404,542374,fernanda@company021.com,Issue with report,Integration,Low,In Progress,2024-10-14,2024-10-19,5,,Agente B,False
+TKT-00421,214576,maria@company022.com.br,Issue with integration,Billing,Low,Open,2024-10-10,,,,Agente D,False
+TKT-00422,214576,pedro@company022.com.br,Issue with integration,Billing,Medium,Resolved,2024-09-21,2024-09-24,3,2,Agente B,False
+TKT-00423,214576,maria@company022.com.br,Issue with login,Bug,Medium,Resolved,2024-08-20,2024-08-21,1,5,Agente B,False
+TKT-00424,214576,rafael@company022.com.br,Issue with billing,Feature Request,Medium,Closed,2025-01-12,2025-01-15,3,3,Agente C,False
+TKT-00425,214576,pedro@company022.com.br,Issue with data export,Performance,High,In Progress,2024-08-24,,,4,Agente C,True
+TKT-00426,214576,carlos@company022.com.br,Issue with report,Onboarding,Medium,Resolved,2025-01-14,,,,Agente B,True
+TKT-00427,214576,maria@company022.com.br,Issue with login,Integration,Medium,Closed,2025-02-14,,,4,Agente C,True
+TKT-00428,214576,ana@company022.com.br,Issue with dashboard,Bug,Medium,In Progress,2024-09-15,,,,Agente D,False
+TKT-00441,863587,fernanda@company023.co,Issue with performance,Feature Request,Low,Closed,2024-06-26,2024-07-17,21,3,Agente D,False
+TKT-00442,863587,maria@company023.co,Issue with data export,Bug,Medium,Open,2025-01-27,2025-02-17,21,2,Agente A,False
+TKT-00461,884309,rafael@company024.io,Issue with data export,Performance,Medium,Closed,2024-07-26,2024-08-13,18,,Agente D,False
+TKT-00462,884309,ana@company024.io,Issue with billing,Integration,Medium,In Progress,2024-11-01,,,1,Agente D,True
+TKT-00463,884309,joao@company024.io,Issue with data export,Performance,Low,Open,2024-07-31,2024-08-02,2,,Agente A,False
+TKT-00464,884309,lucas@company024.io,Issue with performance,Billing,Low,In Progress,2025-03-13,,,5,Agente D,False
+TKT-00465,884309,julia@company024.io,Issue with dashboard,Onboarding,Low,Closed,2024-10-10,,,4,Agente A,True
+TKT-00466,884309,maria@company024.io,Issue with performance,Bug,High,Open,2025-03-03,,,,Agente D,True
+TKT-00467,884309,pedro@company024.io,Issue with dashboard,Billing,Critical,Closed,2024-10-17,2024-10-20,3,,Agente D,False
+TKT-00468,884309,julia@company024.io,Issue with integration,Feature Request,High,In Progress,2025-03-01,2025-03-20,19,,Agente A,False
+TKT-00469,884309,maria@company024.io,Issue with performance,Bug,Low,In Progress,2025-02-26,,,2,Agente B,False
+TKT-00470,884309,lucas@company024.io,Issue with dashboard,Bug,Low,Resolved,2024-07-14,2024-08-04,21,,Agente A,True
+TKT-00471,884309,pedro@company024.io,Issue with dashboard,Bug,High,Resolved,2024-08-14,,,3,Agente D,False
+TKT-00472,884309,pedro@company024.io,Issue with dashboard,Integration,Medium,In Progress,2025-01-03,2025-01-22,19,4,Agente C,False
+TKT-00473,884309,ana@company024.io,Issue with report,Billing,Low,Resolved,2024-09-24,2024-10-11,17,,Agente A,False
+TKT-00481,785197,joao@company025.io,Issue with dashboard,Integration,Low,Open,2025-02-05,2025-02-08,3,,Agente C,True
+TKT-00501,361941,carlos@company026.com.br,Issue with billing,Integration,High,Resolved,2024-08-27,2024-09-14,18,4,Agente C,False
+TKT-00502,361941,lucas@company026.com.br,Issue with data export,Performance,High,In Progress,2025-03-07,,,,Agente B,False
+TKT-00503,361941,fernanda@company026.com.br,Issue with report,Bug,Low,Closed,2025-03-17,,,,Agente A,False
+TKT-00504,361941,fernanda@company026.com.br,Issue with report,Billing,Low,Resolved,2025-02-12,2025-02-25,13,,Agente C,False
+TKT-00505,361941,maria@company026.com.br,Issue with data export,Performance,High,Closed,2025-02-20,2025-03-01,9,,Agente A,False
+TKT-00506,361941,camila@company026.com.br,Issue with data export,Feature Request,Low,Closed,2024-11-20,2024-11-23,3,,Agente C,False
+TKT-00507,361941,carlos@company026.com.br,Issue with login,Onboarding,Medium,Resolved,2024-06-01,2024-06-30,29,,Agente C,False
+TKT-00508,361941,julia@company026.com.br,Issue with billing,Onboarding,Medium,Closed,2024-10-02,,,3,Agente B,False
+TKT-00521,707314,camila@company027.com.br,Issue with dashboard,Integration,Medium,Closed,2024-07-09,2024-07-13,4,4,Agente D,True
+TKT-00522,707314,ana@company027.com.br,Issue with integration,Onboarding,Medium,In Progress,2025-01-01,,,,Agente B,False
+TKT-00523,707314,lucas@company027.com.br,Issue with login,Integration,Critical,Closed,2025-02-06,2025-02-11,5,3,Agente D,True
+TKT-00524,707314,camila@company027.com.br,Issue with login,Performance,Low,In Progress,2024-08-07,2024-09-06,30,5,Agente C,False
+TKT-00541,471507,rafael@company028.io,Issue with data export,Feature Request,Medium,Closed,2024-06-17,2024-07-04,17,5,Agente C,False
+TKT-00542,471507,pedro@company028.io,Issue with report,Feature Request,Low,Closed,2024-12-05,,,2,Agente A,False
+TKT-00543,471507,lucas@company028.io,Issue with data export,Billing,Critical,In Progress,2024-07-21,2024-08-13,23,,Agente C,False
+TKT-00544,471507,pedro@company028.io,Issue with performance,Billing,Low,Closed,2024-11-29,2024-12-18,19,,Agente B,True
+TKT-00545,471507,rafael@company028.io,Issue with dashboard,Feature Request,Low,Resolved,2024-09-04,2024-09-15,11,5,Agente A,False
+TKT-00546,471507,carlos@company028.io,Issue with integration,Billing,Medium,Resolved,2024-11-09,,,4,Agente C,False
+TKT-00547,471507,julia@company028.io,Issue with integration,Performance,Medium,Open,2024-07-20,2024-08-14,25,,Agente C,False
+TKT-00548,471507,lucas@company028.io,Issue with report,Performance,Medium,Closed,2024-08-03,2024-09-01,29,,Agente C,True
+TKT-00561,203198,joao@company029.com,Issue with report,Integration,Medium,Closed,2025-01-08,2025-01-17,9,1,Agente A,True
+TKT-00562,203198,ana@company029.com,Issue with data export,Billing,Medium,In Progress,2025-03-17,2025-04-02,16,,Agente D,False
+TKT-00563,203198,maria@company029.com,Issue with login,Integration,Low,In Progress,2024-10-31,,,1,Agente D,True
+TKT-00564,203198,lucas@company029.com,Issue with performance,Billing,Medium,In Progress,2025-01-08,2025-01-22,14,5,Agente A,True
+TKT-00565,203198,carlos@company029.com,Issue with login,Onboarding,Medium,Open,2024-09-28,2024-10-22,24,,Agente C,False
+TKT-00566,203198,camila@company029.com,Issue with login,Billing,Medium,Open,2025-01-06,2025-01-27,21,,Agente C,False
+TKT-00567,203198,maria@company029.com,Issue with data export,Performance,High,Closed,2024-08-20,2024-09-19,30,1,Agente D,True
+TKT-00568,203198,camila@company029.com,Issue with billing,Onboarding,Low,Open,2025-02-01,2025-02-06,5,2,Agente A,False
+TKT-00569,203198,fernanda@company029.com,Issue with dashboard,Onboarding,Critical,In Progress,2024-08-01,2024-08-31,30,,Agente D,False
+TKT-00570,203198,camila@company029.com,Issue with data export,Performance,Medium,In Progress,2024-06-19,,,1,Agente B,True
+TKT-00581,976638,carlos@company030.com,Issue with dashboard,Bug,Low,In Progress,2024-10-15,2024-11-06,22,1,Agente C,False
+TKT-00582,976638,camila@company030.com,Issue with dashboard,Onboarding,Medium,Resolved,2024-09-28,2024-09-30,2,,Agente D,False
+TKT-00583,976638,julia@company030.com,Issue with performance,Feature Request,Critical,In Progress,2024-09-16,,,,Agente B,False
+TKT-00621,324130,pedro@company032.com,Issue with performance,Billing,Medium,Open,2024-11-06,,,1,Agente D,False
+TKT-00622,324130,pedro@company032.com,Issue with login,Performance,Medium,In Progress,2024-11-25,2024-11-28,3,,Agente D,False
+TKT-00623,324130,julia@company032.com,Issue with integration,Billing,Medium,Closed,2024-06-15,2024-06-29,14,,Agente B,False
+TKT-00624,324130,maria@company032.com,Issue with performance,Billing,High,Resolved,2025-01-21,2025-02-19,29,,Agente B,False
+TKT-00625,324130,pedro@company032.com,Issue with billing,Billing,High,In Progress,2024-08-11,2024-08-19,8,,Agente A,False
+TKT-00626,324130,pedro@company032.com,Issue with dashboard,Bug,High,Open,2024-11-23,2024-12-13,20,,Agente C,True
+TKT-00627,324130,fernanda@company032.com,Issue with report,Billing,Medium,Closed,2025-01-13,2025-01-17,4,2,Agente D,False
+TKT-00641,997546,julia@company033.io,Issue with dashboard,Integration,Low,Resolved,2024-06-16,,,,Agente B,False
+TKT-00661,102260,carlos@company034.io,Issue with report,Integration,Medium,Closed,2024-12-29,2025-01-05,7,,Agente A,False
+TKT-00662,102260,lucas@company034.io,Issue with login,Onboarding,Low,In Progress,2024-07-29,2024-08-11,13,2,Agente D,True
+TKT-00663,102260,lucas@company034.io,Issue with report,Billing,Critical,Open,2024-09-02,2024-09-25,23,,Agente A,True
+TKT-00664,102260,joao@company034.io,Issue with data export,Billing,Low,Closed,2024-08-19,,,,Agente D,False
+TKT-00665,102260,fernanda@company034.io,Issue with performance,Bug,Low,Closed,2025-01-25,,,,Agente A,False
+TKT-00681,202664,rafael@company035.io,Issue with billing,Bug,High,Closed,2024-09-15,2024-09-16,1,,Agente D,False
+TKT-00682,202664,rafael@company035.io,Issue with data export,Billing,Low,In Progress,2025-02-08,2025-02-25,17,,Agente A,False
+TKT-00683,202664,joao@company035.io,Issue with report,Billing,Low,Resolved,2024-06-15,,,1,Agente A,False
+TKT-00684,202664,julia@company035.io,Issue with login,Onboarding,Low,Resolved,2024-12-29,2025-01-11,13,2,Agente B,True
+TKT-00701,197793,maria@company036.com,Issue with data export,Bug,Medium,Resolved,2025-02-09,,,,Agente D,False
+TKT-00702,197793,julia@company036.com,Issue with login,Billing,High,Open,2024-10-23,2024-11-01,9,,Agente B,False
+TKT-00703,197793,ana@company036.com,Issue with dashboard,Billing,Medium,Open,2024-08-11,2024-08-19,8,5,Agente D,True
+TKT-00704,197793,joao@company036.com,Issue with report,Billing,High,Open,2024-09-28,2024-10-10,12,3,Agente B,False
+TKT-00705,197793,rafael@company036.com,Issue with integration,Onboarding,Low,Open,2024-11-03,2024-12-02,29,3,Agente D,False
+TKT-00706,197793,julia@company036.com,Issue with data export,Integration,Critical,Resolved,2025-03-17,2025-03-23,6,,Agente B,False
+TKT-00721,159942,joao@company037.co,Issue with data export,Bug,Low,Open,2024-12-13,2025-01-05,23,,Agente C,False
+TKT-00722,159942,carlos@company037.co,Issue with dashboard,Billing,High,Closed,2024-10-15,2024-10-24,9,4,Agente D,False
+TKT-00723,159942,pedro@company037.co,Issue with login,Performance,Medium,In Progress,2024-09-07,,,,Agente C,False
+TKT-00724,159942,joao@company037.co,Issue with report,Feature Request,Critical,Open,2024-10-26,2024-11-06,11,5,Agente C,False
+TKT-00725,159942,carlos@company037.co,Issue with integration,Feature Request,Medium,Closed,2025-02-25,2025-03-05,8,,Agente C,False
+TKT-00726,159942,fernanda@company037.co,Issue with login,Performance,High,Open,2025-03-06,2025-03-07,1,,Agente B,False
+TKT-00727,159942,rafael@company037.co,Issue with login,Billing,High,Resolved,2024-07-28,,,,Agente A,True
+TKT-00728,159942,pedro@company037.co,Issue with report,Feature Request,Low,Closed,2025-01-23,2025-02-18,26,,Agente D,False
+TKT-00729,159942,pedro@company037.co,Issue with performance,Performance,Low,Resolved,2025-02-15,,,,Agente C,False
+TKT-00730,159942,pedro@company037.co,Issue with report,Bug,Low,Resolved,2024-10-06,2024-10-20,14,1,Agente B,False
+TKT-00731,159942,fernanda@company037.co,Issue with billing,Onboarding,Medium,In Progress,2024-08-04,,,,Agente B,False
+TKT-00741,923267,julia@company038.com,Issue with data export,Billing,Low,In Progress,2024-10-06,2024-10-27,21,,Agente D,True
+TKT-00742,923267,pedro@company038.com,Issue with data export,Billing,Low,In Progress,2024-08-31,2024-09-07,7,2,Agente A,True
+TKT-00743,923267,maria@company038.com,Issue with billing,Bug,High,Resolved,2024-08-31,2024-09-16,16,4,Agente B,False
+TKT-00744,923267,joao@company038.com,Issue with report,Billing,Medium,Closed,2025-02-27,2025-03-25,26,,Agente D,True
+TKT-00761,853305,julia@company039.co,Issue with billing,Bug,Critical,Resolved,2024-12-10,2025-01-05,26,2,Agente C,False
+TKT-00762,853305,carlos@company039.co,Issue with report,Integration,Medium,Closed,2024-12-23,2025-01-09,17,,Agente B,True
+TKT-00763,853305,camila@company039.co,Issue with login,Billing,Critical,In Progress,2024-08-27,,,,Agente C,False
+TKT-00764,853305,ana@company039.co,Issue with data export,Onboarding,High,Closed,2025-03-11,2025-03-25,14,4,Agente B,False
+TKT-00765,853305,lucas@company039.co,Issue with dashboard,Performance,High,In Progress,2024-11-17,2024-12-08,21,,Agente B,True
+TKT-00781,790993,camila@company040.com,Issue with login,Performance,Low,Open,2024-10-07,2024-10-10,3,,Agente C,False
+TKT-00782,790993,maria@company040.com,Issue with login,Feature Request,Medium,Resolved,2024-07-13,2024-07-26,13,1,Agente D,False
+TKT-00783,790993,fernanda@company040.com,Issue with report,Bug,High,Open,2025-01-08,2025-01-18,10,,Agente B,False
+TKT-00784,790993,carlos@company040.com,Issue with billing,Onboarding,Medium,In Progress,2024-09-14,,,,Agente B,False
+TKT-00785,790993,lucas@company040.com,Issue with dashboard,Onboarding,High,Resolved,2024-07-24,2024-08-02,9,2,Agente B,False
+TKT-00786,790993,maria@company040.com,Issue with data export,Bug,Medium,Closed,2024-12-11,2024-12-26,15,1,Agente B,False
+TKT-00787,790993,rafael@company040.com,Issue with performance,Bug,High,In Progress,2025-01-26,2025-02-20,25,1,Agente A,False
+TKT-00788,790993,rafael@company040.com,Issue with integration,Feature Request,Low,Open,2025-02-18,,,2,Agente B,False
+TKT-00789,790993,fernanda@company040.com,Issue with dashboard,Feature Request,Low,Closed,2024-12-28,2025-01-09,12,3,Agente D,False
+TKT-00790,790993,maria@company040.com,Issue with login,Billing,Low,Resolved,2024-07-28,2024-08-26,29,4,Agente B,True
+TKT-00791,790993,pedro@company040.com,Issue with dashboard,Performance,Low,In Progress,2024-12-20,2025-01-11,22,,Agente A,False
+TKT-00792,790993,ana@company040.com,Issue with login,Billing,Medium,Resolved,2025-02-06,2025-02-15,9,,Agente D,False
+TKT-00793,790993,joao@company040.com,Issue with dashboard,Billing,High,Open,2024-11-18,2024-11-30,12,1,Agente C,False
+TKT-00794,790993,fernanda@company040.com,Issue with billing,Billing,Medium,In Progress,2024-11-03,2024-11-08,5,5,Agente C,False
+TKT-00801,531071,camila@company041.io,Issue with billing,Onboarding,Low,In Progress,2024-09-25,2024-10-24,29,4,Agente C,False
+TKT-00802,531071,julia@company041.io,Issue with data export,Performance,Low,Resolved,2024-08-10,,,3,Agente B,False
+TKT-00803,531071,joao@company041.io,Issue with performance,Performance,High,Resolved,2024-08-20,2024-09-01,12,,Agente C,False
+TKT-00804,531071,camila@company041.io,Issue with dashboard,Integration,Critical,Open,2024-10-30,2024-11-23,24,5,Agente B,False
+TKT-00805,531071,ana@company041.io,Issue with dashboard,Feature Request,Low,Open,2025-01-25,2025-02-10,16,,Agente C,True
+TKT-00821,161483,camila@company042.io,Issue with login,Performance,High,Closed,2024-12-31,2025-01-14,14,,Agente D,False
+TKT-00822,161483,carlos@company042.io,Issue with report,Billing,Medium,In Progress,2024-08-08,2024-08-25,17,,Agente B,False
+TKT-00823,161483,lucas@company042.io,Issue with report,Feature Request,High,Open,2024-08-05,2024-09-01,27,,Agente C,False
+TKT-00824,161483,lucas@company042.io,Issue with performance,Onboarding,Low,In Progress,2024-06-14,,,,Agente C,False
+TKT-00825,161483,camila@company042.io,Issue with performance,Performance,High,Open,2024-06-08,2024-06-19,11,,Agente C,True
+TKT-00826,161483,lucas@company042.io,Issue with integration,Integration,Low,Resolved,2025-02-28,,,,Agente C,True
+TKT-00827,161483,rafael@company042.io,Issue with dashboard,Onboarding,Medium,Resolved,2024-08-28,,,,Agente A,True
+TKT-00828,161483,camila@company042.io,Issue with billing,Bug,High,Open,2024-10-02,,,1,Agente C,False
+TKT-00829,161483,fernanda@company042.io,Issue with performance,Billing,High,Closed,2025-03-03,,,4,Agente C,False
+TKT-00841,179046,lucas@company043.com.br,Issue with integration,Bug,Medium,Resolved,2024-06-08,,,,Agente B,False
+TKT-00861,300896,lucas@company044.com,Issue with integration,Performance,High,In Progress,2024-10-25,,,5,Agente D,False
+TKT-00881,890170,julia@company045.com,Issue with data export,Billing,Medium,Resolved,2024-12-21,2025-01-06,16,5,Agente B,False
+TKT-00882,890170,lucas@company045.com,Issue with report,Feature Request,Low,Closed,2024-06-10,2024-06-14,4,,Agente C,True
+TKT-00883,890170,carlos@company045.com,Issue with integration,Performance,High,In Progress,2024-06-05,,,3,Agente B,False
+TKT-00884,890170,carlos@company045.com,Issue with integration,Billing,High,Open,2025-01-16,,,4,Agente D,True
+TKT-00885,890170,fernanda@company045.com,Issue with billing,Billing,Low,Closed,2024-06-28,,,4,Agente B,False
+TKT-00886,890170,fernanda@company045.com,Issue with report,Performance,Medium,In Progress,2024-11-17,2024-12-01,14,,Agente B,False
+TKT-00887,890170,lucas@company045.com,Issue with performance,Onboarding,High,In Progress,2024-06-14,2024-06-30,16,4,Agente A,True
+TKT-00888,890170,lucas@company045.com,Issue with report,Bug,High,Closed,2024-07-26,2024-07-31,5,4,Agente A,False
+TKT-00889,890170,pedro@company045.com,Issue with integration,Bug,Medium,Closed,2024-08-11,2024-09-05,25,4,Agente A,False
+TKT-00890,890170,pedro@company045.com,Issue with dashboard,Billing,Low,Open,2024-11-30,,,5,Agente A,False
+TKT-00891,890170,fernanda@company045.com,Issue with dashboard,Feature Request,High,In Progress,2024-09-10,2024-09-18,8,1,Agente B,False
+TKT-00892,890170,joao@company045.com,Issue with integration,Performance,Medium,Closed,2024-08-29,2024-09-21,23,,Agente D,False
+TKT-00901,497382,julia@company046.com.br,Issue with performance,Feature Request,Low,In Progress,2025-01-18,2025-01-20,2,,Agente C,False
+TKT-00902,497382,carlos@company046.com.br,Issue with billing,Billing,Critical,Open,2024-07-25,2024-08-05,11,4,Agente B,True
+TKT-00903,497382,camila@company046.com.br,Issue with integration,Onboarding,Low,Resolved,2025-01-16,,,1,Agente D,True
+TKT-00904,497382,fernanda@company046.com.br,Issue with data export,Bug,Medium,Closed,2024-08-06,2024-08-09,3,,Agente D,False
+TKT-00905,497382,pedro@company046.com.br,Issue with data export,Integration,Medium,Closed,2024-10-21,2024-10-23,2,,Agente D,False
+TKT-00906,497382,rafael@company046.com.br,Issue with report,Billing,Medium,Open,2024-09-27,,,1,Agente A,True
+TKT-00907,497382,pedro@company046.com.br,Issue with login,Billing,Medium,In Progress,2024-12-15,2025-01-12,28,,Agente B,False
+TKT-00921,262316,carlos@company047.io,Issue with login,Bug,High,Closed,2024-12-15,,,4,Agente C,True
+TKT-00922,262316,lucas@company047.io,Issue with billing,Integration,Low,Resolved,2024-09-15,2024-09-24,9,,Agente A,False
+TKT-00923,262316,camila@company047.io,Issue with login,Integration,Medium,Open,2024-11-23,,,3,Agente D,False
+TKT-00924,262316,lucas@company047.io,Issue with report,Performance,Low,Resolved,2024-07-01,,,4,Agente D,False
+TKT-00925,262316,joao@company047.io,Issue with dashboard,Feature Request,Low,In Progress,2024-06-12,2024-06-21,9,3,Agente B,True
+TKT-00926,262316,fernanda@company047.io,Issue with dashboard,Feature Request,High,Resolved,2024-08-10,2024-08-23,13,,Agente D,False
+TKT-00927,262316,fernanda@company047.io,Issue with dashboard,Feature Request,Critical,Closed,2024-07-08,,,,Agente A,True
+TKT-00941,292401,maria@company048.com,Issue with billing,Onboarding,Medium,Open,2025-03-16,,,,Agente C,False
+TKT-00961,509386,joao@company049.com.br,Issue with integration,Integration,Low,In Progress,2024-10-27,2024-11-07,11,,Agente D,False
+TKT-00962,509386,pedro@company049.com.br,Issue with integration,Billing,Low,Open,2024-07-11,2024-07-15,4,,Agente C,False
+TKT-00963,509386,fernanda@company049.com.br,Issue with report,Bug,Low,Open,2024-10-15,,,3,Agente B,False
+TKT-00964,509386,joao@company049.com.br,Issue with login,Feature Request,Low,In Progress,2024-12-16,2025-01-04,19,2,Agente B,False
+TKT-00965,509386,fernanda@company049.com.br,Issue with dashboard,Bug,High,In Progress,2024-07-16,,,2,Agente B,True
+TKT-00966,509386,joao@company049.com.br,Issue with billing,Billing,Low,Closed,2024-10-07,,,,Agente A,True
+TKT-00981,161324,julia@company050.com,Issue with report,Billing,Medium,In Progress,2024-08-10,2024-08-26,16,,Agente C,False
+TKT-00982,161324,joao@company050.com,Issue with performance,Feature Request,Medium,Closed,2024-10-14,2024-10-26,12,1,Agente D,False
+TKT-00983,161324,carlos@company050.com,Issue with report,Bug,Medium,Resolved,2024-07-19,2024-07-28,9,4,Agente A,False
+TKT-00984,161324,joao@company050.com,Issue with dashboard,Performance,High,In Progress,2024-07-11,,,5,Agente D,False
+TKT-00985,161324,pedro@company050.com,Issue with dashboard,Billing,Medium,Resolved,2024-06-21,,,,Agente B,False
+TKT-00986,161324,maria@company050.com,Issue with billing,Performance,Critical,Closed,2025-03-05,,,,Agente B,True
+TKT-00987,161324,maria@company050.com,Issue with report,Performance,Low,Open,2025-03-08,2025-04-01,24,3,Agente C,False
+TKT-00988,161324,rafael@company050.com,Issue with login,Performance,High,Closed,2024-08-26,2024-09-12,17,4,Agente C,False
+TKT-00989,161324,joao@company050.com,Issue with integration,Onboarding,High,Closed,2025-02-28,,,1,Agente A,True
+TKT-00990,161324,ana@company050.com,Issue with report,Bug,Medium,Resolved,2024-12-10,2024-12-24,14,5,Agente D,False
+TKT-00991,161324,fernanda@company050.com,Issue with data export,Billing,Low,In Progress,2024-12-10,2024-12-16,6,,Agente C,False
+TKT-00992,161324,carlos@company050.com,Issue with data export,Integration,Medium,Closed,2025-03-07,,,,Agente D,False
+TKT-01041,399105,julia@company053.co,Issue with login,Onboarding,Medium,Open,2025-01-26,,,,Agente D,False
+TKT-01061,522179,rafael@company054.io,Issue with report,Integration,Medium,Open,2025-02-11,2025-02-21,10,3,Agente B,True
+TKT-01062,522179,julia@company054.io,Issue with login,Integration,High,In Progress,2024-10-23,2024-10-26,3,3,Agente B,False
+TKT-01063,522179,lucas@company054.io,Issue with dashboard,Feature Request,High,Closed,2024-06-25,2024-07-03,8,1,Agente C,False
+TKT-01064,522179,fernanda@company054.io,Issue with integration,Integration,Medium,In Progress,2024-08-06,2024-08-12,6,1,Agente C,False
+TKT-01065,522179,joao@company054.io,Issue with login,Integration,Medium,Open,2024-06-04,2024-06-22,18,,Agente A,False
+TKT-01066,522179,ana@company054.io,Issue with login,Feature Request,Low,Resolved,2025-01-08,2025-01-15,7,3,Agente A,True
+TKT-01067,522179,camila@company054.io,Issue with performance,Billing,High,Open,2024-11-30,2024-12-29,29,5,Agente C,False
+TKT-01068,522179,carlos@company054.io,Issue with dashboard,Billing,Medium,In Progress,2025-02-07,2025-02-28,21,,Agente A,False
+TKT-01069,522179,camila@company054.io,Issue with report,Billing,Low,Open,2024-09-22,2024-10-21,29,4,Agente D,False
+TKT-01070,522179,carlos@company054.io,Issue with report,Performance,Low,In Progress,2024-09-28,2024-10-02,4,,Agente C,False
+TKT-01071,522179,rafael@company054.io,Issue with report,Onboarding,High,In Progress,2024-06-15,2024-07-09,24,,Agente C,True
+TKT-01072,522179,ana@company054.io,Issue with billing,Performance,Critical,Resolved,2024-11-01,2024-11-25,24,,Agente C,True
+TKT-01073,522179,joao@company054.io,Issue with integration,Feature Request,Medium,Closed,2024-06-10,,,,Agente D,False
+TKT-01074,522179,fernanda@company054.io,Issue with data export,Billing,Medium,Open,2024-10-02,2024-10-06,4,3,Agente D,False
+TKT-01101,428838,carlos@company056.io,Issue with login,Onboarding,High,In Progress,2024-07-09,2024-07-19,10,4,Agente D,True
+TKT-01102,428838,pedro@company056.io,Issue with integration,Integration,Low,Resolved,2024-10-11,2024-11-06,26,,Agente B,False
+TKT-01103,428838,lucas@company056.io,Issue with dashboard,Onboarding,Low,In Progress,2025-01-02,2025-01-24,22,5,Agente C,False
+TKT-01104,428838,lucas@company056.io,Issue with performance,Integration,Medium,Closed,2024-06-27,,,,Agente B,False
+TKT-01105,428838,julia@company056.io,Issue with login,Performance,High,Open,2024-09-23,2024-10-06,13,1,Agente C,False
+TKT-01106,428838,julia@company056.io,Issue with billing,Onboarding,Low,Resolved,2024-06-17,2024-06-25,8,,Agente D,True
+TKT-01107,428838,carlos@company056.io,Issue with performance,Feature Request,Critical,Closed,2025-03-06,2025-04-02,27,2,Agente B,True
+TKT-01121,677057,lucas@company057.io,Issue with integration,Integration,High,Resolved,2024-10-24,,,3,Agente A,False
+TKT-01122,677057,rafael@company057.io,Issue with login,Billing,Medium,Open,2024-06-05,,,2,Agente B,False
+TKT-01123,677057,lucas@company057.io,Issue with dashboard,Billing,Low,Open,2025-02-07,2025-02-22,15,2,Agente A,False
+TKT-01161,666847,lucas@company059.io,Issue with integration,Bug,Medium,Closed,2024-07-16,2024-07-18,2,1,Agente D,False
+TKT-01162,666847,julia@company059.io,Issue with performance,Billing,Low,Closed,2024-10-11,,,1,Agente B,True
+TKT-01163,666847,pedro@company059.io,Issue with data export,Bug,Critical,Closed,2025-03-01,,,1,Agente B,False
+TKT-01164,666847,julia@company059.io,Issue with billing,Bug,Medium,Closed,2024-09-06,,,,Agente C,True
+TKT-01165,666847,lucas@company059.io,Issue with data export,Performance,Medium,Open,2025-01-08,2025-01-15,7,1,Agente D,True
+TKT-01166,666847,maria@company059.io,Issue with integration,Integration,Critical,Closed,2024-10-27,2024-11-18,22,4,Agente D,False
+TKT-01167,666847,camila@company059.io,Issue with performance,Integration,Medium,Closed,2025-01-29,2025-02-07,9,4,Agente D,True
+TKT-01168,666847,lucas@company059.io,Issue with performance,Feature Request,Medium,Closed,2025-02-14,,,2,Agente B,False
+TKT-01169,666847,lucas@company059.io,Issue with login,Performance,Medium,Open,2024-09-26,,,,Agente C,False
+TKT-01181,989921,fernanda@company060.com,Issue with login,Bug,Medium,Resolved,2024-12-15,2025-01-01,17,,Agente A,False
+TKT-01182,989921,maria@company060.com,Issue with data export,Integration,High,Closed,2025-01-13,2025-01-23,10,,Agente C,False
+TKT-01183,989921,carlos@company060.com,Issue with performance,Billing,Critical,Closed,2025-03-14,,,,Agente C,False
+TKT-01184,989921,julia@company060.com,Issue with dashboard,Bug,Critical,Resolved,2024-08-02,2024-08-21,19,1,Agente B,False
+TKT-01185,989921,ana@company060.com,Issue with login,Performance,Low,Closed,2024-07-12,2024-07-23,11,,Agente A,False
+TKT-01186,989921,carlos@company060.com,Issue with billing,Feature Request,Medium,Closed,2024-06-06,2024-06-15,9,,Agente A,False
+TKT-01187,989921,pedro@company060.com,Issue with dashboard,Bug,Low,Open,2024-06-06,,,3,Agente D,True
+TKT-01188,989921,lucas@company060.com,Issue with data export,Feature Request,Low,Closed,2024-09-14,2024-10-09,25,2,Agente A,False
+TKT-01201,392075,rafael@company061.com.br,Issue with integration,Feature Request,Medium,Closed,2024-12-30,2025-01-05,6,1,Agente A,False
+TKT-01202,392075,pedro@company061.com.br,Issue with billing,Onboarding,Critical,In Progress,2024-11-28,2024-12-08,10,3,Agente C,False
+TKT-01203,392075,julia@company061.com.br,Issue with dashboard,Feature Request,Medium,Closed,2024-11-18,,,,Agente B,False
+TKT-01204,392075,rafael@company061.com.br,Issue with performance,Bug,Medium,In Progress,2024-12-16,,,3,Agente A,False
+TKT-01205,392075,camila@company061.com.br,Issue with dashboard,Integration,Medium,Resolved,2024-08-04,2024-08-11,7,5,Agente A,False
+TKT-01206,392075,fernanda@company061.com.br,Issue with report,Feature Request,Medium,Resolved,2024-09-06,2024-10-02,26,1,Agente A,False
+TKT-01207,392075,fernanda@company061.com.br,Issue with performance,Onboarding,Low,Open,2024-08-03,2024-08-20,17,,Agente C,True
+TKT-01221,921414,joao@company062.com.br,Issue with dashboard,Integration,Low,Closed,2024-10-30,2024-11-20,21,5,Agente D,False
+TKT-01222,921414,rafael@company062.com.br,Issue with login,Feature Request,Critical,Open,2024-09-20,,,5,Agente C,False
+TKT-01223,921414,joao@company062.com.br,Issue with performance,Performance,High,In Progress,2024-10-19,2024-10-26,7,5,Agente B,True
+TKT-01224,921414,maria@company062.com.br,Issue with dashboard,Billing,Low,Open,2024-12-17,2025-01-08,22,3,Agente A,False
+TKT-01225,921414,carlos@company062.com.br,Issue with login,Onboarding,Critical,In Progress,2024-08-15,,,4,Agente A,False
+TKT-01226,921414,carlos@company062.com.br,Issue with report,Onboarding,High,Closed,2024-12-17,2025-01-01,15,,Agente B,True
+TKT-01227,921414,lucas@company062.com.br,Issue with performance,Feature Request,Low,In Progress,2024-10-13,2024-10-30,17,4,Agente A,False
+TKT-01241,115474,joao@company063.com.br,Issue with report,Bug,High,In Progress,2025-02-17,2025-03-19,30,4,Agente C,False
+TKT-01242,115474,julia@company063.com.br,Issue with billing,Integration,Medium,In Progress,2024-12-02,2024-12-24,22,1,Agente D,True
+TKT-01243,115474,julia@company063.com.br,Issue with performance,Integration,Critical,Resolved,2024-07-04,2024-07-30,26,,Agente A,True
+TKT-01244,115474,joao@company063.com.br,Issue with login,Integration,Critical,Resolved,2024-06-17,,,,Agente A,False
+TKT-01245,115474,pedro@company063.com.br,Issue with performance,Feature Request,Low,In Progress,2024-06-27,2024-07-08,11,3,Agente C,False
+TKT-01246,115474,carlos@company063.com.br,Issue with integration,Bug,Low,Open,2024-10-01,,,5,Agente A,False
+TKT-01247,115474,lucas@company063.com.br,Issue with billing,Bug,High,Resolved,2024-07-09,2024-08-04,26,,Agente B,True
+TKT-01248,115474,fernanda@company063.com.br,Issue with dashboard,Onboarding,High,In Progress,2024-11-15,2024-12-06,21,4,Agente A,True
+TKT-01261,589710,camila@company064.co,Issue with billing,Integration,Medium,Closed,2025-01-07,,,5,Agente B,False
+TKT-01262,589710,camila@company064.co,Issue with performance,Integration,High,Resolved,2025-03-03,2025-03-15,12,3,Agente D,False
+TKT-01263,589710,lucas@company064.co,Issue with performance,Integration,High,Closed,2024-07-07,,,,Agente A,False
+TKT-01264,589710,lucas@company064.co,Issue with dashboard,Onboarding,Medium,Open,2024-10-14,2024-10-29,15,,Agente B,False
+TKT-01265,589710,lucas@company064.co,Issue with data export,Performance,Medium,Closed,2024-07-04,2024-07-12,8,,Agente A,False
+TKT-01266,589710,rafael@company064.co,Issue with dashboard,Integration,High,Resolved,2024-06-03,,,,Agente C,False
+TKT-01281,947272,julia@company065.co,Issue with data export,Onboarding,Critical,Closed,2024-09-17,,,2,Agente B,False
+TKT-01282,947272,fernanda@company065.co,Issue with integration,Integration,Low,Open,2025-01-23,,,,Agente A,False
+TKT-01283,947272,lucas@company065.co,Issue with report,Feature Request,Critical,Resolved,2025-02-10,2025-02-22,12,2,Agente A,False
+TKT-01284,947272,fernanda@company065.co,Issue with integration,Integration,Medium,In Progress,2024-09-22,2024-10-10,18,2,Agente C,False
+TKT-01321,272634,rafael@company067.com.br,Issue with integration,Onboarding,Medium,Resolved,2024-07-30,,,,Agente A,False
+TKT-01322,272634,julia@company067.com.br,Issue with login,Performance,Medium,Closed,2024-07-31,2024-08-01,1,,Agente C,False
+TKT-01323,272634,camila@company067.com.br,Issue with billing,Performance,Critical,In Progress,2024-06-29,,,,Agente B,False
+TKT-01324,272634,maria@company067.com.br,Issue with dashboard,Billing,Medium,Open,2024-06-20,,,2,Agente C,True
+TKT-01341,564656,ana@company068.io,Issue with integration,Bug,Critical,Closed,2024-08-04,2024-09-02,29,,Agente A,True
+TKT-01342,564656,maria@company068.io,Issue with report,Bug,Medium,Closed,2025-01-07,2025-01-15,8,5,Agente B,True
+TKT-01343,564656,maria@company068.io,Issue with report,Bug,High,Closed,2024-08-06,2024-08-12,6,,Agente D,False
+TKT-01344,564656,lucas@company068.io,Issue with performance,Feature Request,Low,In Progress,2024-10-19,,,1,Agente B,False
+TKT-01345,564656,joao@company068.io,Issue with login,Performance,Low,Closed,2024-11-27,,,,Agente A,False
+TKT-01361,299122,camila@company069.com,Issue with login,Billing,Low,Closed,2024-10-15,,,,Agente D,False
+TKT-01362,299122,julia@company069.com,Issue with report,Integration,Low,Resolved,2024-08-08,2024-08-12,4,,Agente B,False
+TKT-01363,299122,carlos@company069.com,Issue with login,Integration,Critical,Closed,2024-10-12,2024-10-26,14,3,Agente D,False
+TKT-01364,299122,maria@company069.com,Issue with billing,Bug,Low,Resolved,2024-11-19,2024-12-03,14,,Agente A,False
+TKT-01365,299122,camila@company069.com,Issue with report,Integration,Medium,In Progress,2024-11-09,2024-11-29,20,,Agente A,True
+TKT-01401,246991,lucas@company071.com,Issue with billing,Onboarding,Low,Open,2024-10-26,2024-11-23,28,1,Agente D,True
+TKT-01402,246991,lucas@company071.com,Issue with report,Integration,Low,Resolved,2024-11-29,,,,Agente C,True
+TKT-01403,246991,maria@company071.com,Issue with report,Billing,Low,Closed,2025-01-11,2025-02-08,28,,Agente A,False
+TKT-01404,246991,pedro@company071.com,Issue with report,Performance,Low,Closed,2024-08-27,2024-08-31,4,,Agente A,False
+TKT-01405,246991,camila@company071.com,Issue with report,Feature Request,Low,Resolved,2025-02-05,,,,Agente C,True
+TKT-01421,777568,lucas@company072.io,Issue with integration,Billing,Medium,In Progress,2025-01-26,2025-02-02,7,5,Agente A,True
+TKT-01422,777568,carlos@company072.io,Issue with data export,Performance,High,In Progress,2024-09-14,2024-10-11,27,1,Agente B,False
+TKT-01423,777568,fernanda@company072.io,Issue with integration,Onboarding,Critical,Open,2024-08-15,2024-09-13,29,4,Agente C,True
+TKT-01424,777568,lucas@company072.io,Issue with billing,Feature Request,Medium,In Progress,2024-09-10,2024-09-17,7,5,Agente A,False
+TKT-01425,777568,joao@company072.io,Issue with report,Integration,Medium,Closed,2024-08-18,2024-09-03,16,3,Agente D,False
+TKT-01441,794022,maria@company073.co,Issue with performance,Performance,Medium,Resolved,2025-02-03,,,1,Agente C,False
+TKT-01461,156802,fernanda@company074.io,Issue with dashboard,Billing,Medium,In Progress,2025-02-21,2025-03-03,10,1,Agente A,False
+TKT-01462,156802,lucas@company074.io,Issue with login,Onboarding,Medium,Closed,2024-12-08,2024-12-13,5,1,Agente C,False
+TKT-01463,156802,fernanda@company074.io,Issue with data export,Bug,High,In Progress,2025-01-04,2025-01-11,7,4,Agente D,False
+TKT-01481,299448,fernanda@company075.com,Issue with login,Feature Request,High,In Progress,2025-01-19,2025-02-13,25,1,Agente D,False
+TKT-01482,299448,fernanda@company075.com,Issue with integration,Performance,Medium,Closed,2025-01-20,,,,Agente A,False
+TKT-01483,299448,carlos@company075.com,Issue with login,Feature Request,High,In Progress,2024-08-21,2024-09-08,18,,Agente C,True
+TKT-01484,299448,joao@company075.com,Issue with report,Bug,Low,In Progress,2025-02-24,2025-03-08,12,,Agente C,True
+TKT-01485,299448,lucas@company075.com,Issue with login,Performance,Low,Closed,2025-03-15,2025-04-14,30,,Agente A,False
+TKT-01486,299448,joao@company075.com,Issue with billing,Bug,Medium,Open,2024-07-14,,,,Agente A,False
+TKT-01501,610311,ana@company076.com.br,Issue with login,Onboarding,Low,Open,2024-08-17,,,,Agente D,False
+TKT-01502,610311,maria@company076.com.br,Issue with billing,Billing,Medium,Resolved,2024-11-13,2024-12-07,24,,Agente A,False
+TKT-01503,610311,rafael@company076.com.br,Issue with dashboard,Bug,Low,Open,2025-02-02,2025-02-26,24,,Agente D,False
+TKT-01504,610311,camila@company076.com.br,Issue with data export,Bug,Medium,In Progress,2024-06-26,2024-06-27,1,,Agente D,False
+TKT-01521,682765,ana@company077.io,Issue with dashboard,Bug,Medium,Closed,2024-09-20,2024-10-16,26,,Agente B,False
+TKT-01522,682765,pedro@company077.io,Issue with data export,Integration,Low,In Progress,2024-07-22,2024-08-20,29,4,Agente A,False
+TKT-01523,682765,joao@company077.io,Issue with billing,Billing,Medium,Resolved,2024-10-21,,,,Agente C,False
+TKT-01524,682765,lucas@company077.io,Issue with performance,Feature Request,High,Closed,2024-08-09,2024-08-26,17,,Agente C,False
+TKT-01525,682765,maria@company077.io,Issue with dashboard,Performance,Medium,In Progress,2024-07-26,2024-08-24,29,5,Agente C,True
+TKT-01526,682765,carlos@company077.io,Issue with report,Feature Request,Medium,In Progress,2024-12-21,,,,Agente B,False
+TKT-01527,682765,ana@company077.io,Issue with integration,Onboarding,Low,Resolved,2025-03-11,2025-04-01,21,,Agente B,True
+TKT-01528,682765,rafael@company077.io,Issue with report,Bug,Medium,Resolved,2024-07-08,2024-07-29,21,,Agente A,False
+TKT-01529,682765,maria@company077.io,Issue with dashboard,Performance,Low,Open,2024-11-30,,,,Agente B,False
+TKT-01541,830429,lucas@company078.com.br,Issue with report,Onboarding,Low,Open,2024-12-12,2024-12-29,17,,Agente A,False
+TKT-01542,830429,julia@company078.com.br,Issue with integration,Onboarding,Medium,Open,2024-09-25,,,4,Agente B,True
+TKT-01561,871476,rafael@company079.co,Issue with data export,Billing,Critical,In Progress,2024-08-30,2024-09-12,13,2,Agente B,False
+TKT-01562,871476,ana@company079.co,Issue with login,Integration,Low,Open,2024-06-08,2024-06-23,15,,Agente D,False
+TKT-01563,871476,ana@company079.co,Issue with dashboard,Bug,Critical,Closed,2025-01-08,2025-02-03,26,1,Agente D,False
+TKT-01581,864491,julia@company080.co,Issue with data export,Integration,Medium,Resolved,2024-10-10,2024-10-31,21,1,Agente D,False
+TKT-01582,864491,carlos@company080.co,Issue with data export,Billing,Critical,Closed,2025-01-29,,,,Agente D,True
+TKT-01583,864491,carlos@company080.co,Issue with report,Onboarding,Critical,In Progress,2024-06-18,,,3,Agente A,False
+TKT-01584,864491,carlos@company080.co,Issue with dashboard,Onboarding,Medium,Closed,2024-10-05,,,,Agente B,False

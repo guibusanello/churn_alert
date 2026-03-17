@@ -1,0 +1,81 @@
+account_id,company_name,billing_email,segment,industry,country,employee_count,plan,mrr,status,cs_owner,created_date,health_score,nps_score,last_qbr_date
+ACC-0001,Company 001,billing@company001.com,SMB,Fintech,Argentina,3479,Growth,961,Churned,Fernanda Rocha,2021-04-15,7,0,2024-11-22
+ACC-0002,Company 002,billing@company002.com,Mid-Market,EdTech,Brazil,926,Starter,268,Active,Carlos Souza,2023-05-26,79,0,2024-03-16
+ACC-0003,Company 003,billing@company003.io,Mid-Market,E-commerce,Brazil,2054,Starter,419,Active,Ana Lima,2021-03-23,55,8,2025-01-18
+ACC-0004,Company 004,billing@company004.com.br,Enterprise,Retail,Brazil,3387,Enterprise,4955,Active,Carlos Souza,2021-11-29,52,,
+ACC-0005,Company 005,billing@company005.com.br,SMB,Healthtech,Brazil,3780,Starter,338,At Risk,Fernanda Rocha,2023-08-22,39,,2024-07-23
+ACC-0006,Company 006,billing@company006.com.br,Mid-Market,E-commerce,Argentina,4183,Starter,351,Active,Juliana Matos,2022-07-26,52,,2024-05-13
+ACC-0007,Company 007,billing@company007.com,Enterprise,Fintech,Mexico,3569,Professional,2037,Churned,Fernanda Rocha,2021-03-20,32,,2024-10-22
+ACC-0008,Company 008,billing@company008.com,Enterprise,EdTech,Mexico,1624,Starter,342,At Risk,Bruno Alves,2021-01-04,18,10,2024-12-05
+ACC-0009,Company 009,billing@company009.co,Enterprise,SaaS,USA,2682,Professional,2052,Active,Fernanda Rocha,2022-09-26,80,,2024-07-13
+ACC-0010,Company 010,billing@company010.com,SMB,E-commerce,USA,4498,Professional,2162,Active,Ana Lima,2024-03-11,48,,2024-10-23
+ACC-0011,Company 011,billing@company011.com,SMB,SaaS,Brazil,4197,Professional,2070,Active,Carlos Souza,2023-06-25,94,1,2024-11-20
+ACC-0012,Company 012,billing@company012.com,SMB,SaaS,Brazil,1850,Growth,955,At Risk,Carlos Souza,2022-04-27,28,,
+ACC-0013,Company 013,billing@company013.com.br,Mid-Market,Logistics,Argentina,4725,Professional,1998,At Risk,Bruno Alves,2023-07-22,73,,
+ACC-0014,Company 014,billing@company014.com.br,SMB,Retail,USA,1802,Starter,294,At Risk,Juliana Matos,2021-08-07,69,,2024-03-03
+ACC-0015,Company 015,billing@company015.com,Mid-Market,EdTech,Mexico,2609,Starter,492,Active,Bruno Alves,2023-12-24,88,8,2024-10-07
+ACC-0016,Company 016,billing@company016.com.br,Mid-Market,Logistics,Brazil,2035,Enterprise,5164,At Risk,Fernanda Rocha,2023-08-31,76,,
+ACC-0017,Company 017,billing@company017.co,Enterprise,E-commerce,Mexico,670,Professional,1984,Active,Carlos Souza,2022-11-19,39,,2024-02-02
+ACC-0018,Company 018,billing@company018.com.br,Mid-Market,Fintech,Brazil,3451,Growth,848,Active,Juliana Matos,2023-05-02,99,0,2024-06-29
+ACC-0019,Company 019,billing@company019.co,Mid-Market,EdTech,Argentina,4483,Professional,2153,At Risk,Juliana Matos,2023-05-09,38,,
+ACC-0020,Company 020,billing@company020.io,Mid-Market,SaaS,Brazil,3838,Starter,484,Active,Carlos Souza,2023-04-09,89,,2024-10-30
+ACC-0021,Company 021,billing@company021.com,SMB,Healthtech,USA,1498,Professional,1961,Active,Fernanda Rocha,2023-05-28,58,,2024-06-21
+ACC-0022,Company 022,billing@company022.com.br,Mid-Market,E-commerce,Brazil,3862,Starter,253,Churned,Juliana Matos,2023-05-14,8,,2025-02-03
+ACC-0023,Company 023,billing@company023.co,SMB,Healthtech,Brazil,1258,Starter,310,Active,Carlos Souza,2022-05-22,70,,2024-04-21
+ACC-0024,Company 024,billing@company024.io,Mid-Market,EdTech,Mexico,948,Professional,2148,At Risk,Carlos Souza,2021-12-10,49,,2024-10-21
+ACC-0025,Company 025,billing@company025.io,SMB,Fintech,Mexico,1999,Enterprise,4975,Active,Fernanda Rocha,2022-02-11,97,,2024-10-16
+ACC-0026,Company 026,billing@company026.com.br,Enterprise,Fintech,Mexico,2805,Growth,752,Active,Bruno Alves,2023-01-29,72,1,2024-11-21
+ACC-0027,Company 027,billing@company027.com.br,Mid-Market,SaaS,Brazil,4418,Professional,2147,Active,Bruno Alves,2023-12-05,69,6,2024-05-05
+ACC-0028,Company 028,billing@company028.io,Enterprise,EdTech,Mexico,3114,Starter,335,Active,Ana Lima,2023-08-10,73,,2024-06-30
+ACC-0029,Company 029,billing@company029.com,Mid-Market,EdTech,Brazil,4242,Growth,991,At Risk,Carlos Souza,2022-07-20,20,3,2025-01-23
+ACC-0030,Company 030,billing@company030.com,Enterprise,Logistics,Brazil,772,Professional,2024,Active,Carlos Souza,2023-10-03,61,3,2024-07-07
+ACC-0031,Company 031,billing@company031.co,Mid-Market,E-commerce,Brazil,3727,Professional,2018,Active,Fernanda Rocha,2024-02-02,42,,2024-06-10
+ACC-0032,Company 032,billing@company032.com,Enterprise,Healthtech,Brazil,3976,Professional,2019,Churned,Juliana Matos,2022-01-15,38,9,2025-03-02
+ACC-0033,Company 033,billing@company033.io,Enterprise,Fintech,Argentina,4385,Starter,281,Active,Fernanda Rocha,2022-09-12,15,0,2024-03-05
+ACC-0034,Company 034,billing@company034.io,SMB,EdTech,Brazil,3855,Enterprise,5071,Active,Bruno Alves,2021-01-26,53,,
+ACC-0035,Company 035,billing@company035.io,Mid-Market,Fintech,Mexico,449,Starter,287,Active,Carlos Souza,2023-10-05,82,,2024-03-01
+ACC-0036,Company 036,billing@company036.com,SMB,Retail,Mexico,3126,Professional,2064,Active,Bruno Alves,2022-04-08,48,9,2024-11-13
+ACC-0037,Company 037,billing@company037.co,Enterprise,SaaS,Brazil,2177,Professional,2118,At Risk,Ana Lima,2022-03-02,30,,2024-03-21
+ACC-0038,Company 038,billing@company038.com,Enterprise,E-commerce,Brazil,1906,Growth,822,Active,Fernanda Rocha,2023-08-21,99,,2024-05-15
+ACC-0039,Company 039,billing@company039.co,SMB,Logistics,Brazil,4471,Professional,2006,At Risk,Carlos Souza,2022-02-10,44,,
+ACC-0040,Company 040,billing@company040.com,Mid-Market,Logistics,Brazil,3849,Professional,2125,At Risk,Fernanda Rocha,2022-08-15,99,6,2024-09-09
+ACC-0041,Company 041,billing@company041.io,Mid-Market,SaaS,Brazil,4955,Starter,313,Active,Ana Lima,2023-06-04,21,,2024-12-10
+ACC-0042,Company 042,billing@company042.io,Mid-Market,Logistics,Mexico,3632,Professional,2183,At Risk,Fernanda Rocha,2021-12-25,33,9,2024-09-08
+ACC-0043,Company 043,billing@company043.com.br,Enterprise,SaaS,Brazil,1327,Growth,833,Active,Bruno Alves,2022-10-20,98,7,2024-07-24
+ACC-0044,Company 044,billing@company044.com,SMB,E-commerce,Brazil,3321,Starter,470,Active,Juliana Matos,2022-06-01,10,10,2024-04-06
+ACC-0045,Company 045,billing@company045.com,SMB,Retail,Brazil,1677,Growth,817,At Risk,Juliana Matos,2023-06-25,26,4,2024-09-05
+ACC-0046,Company 046,billing@company046.com.br,Enterprise,SaaS,Brazil,2555,Starter,390,Active,Ana Lima,2022-05-06,80,,
+ACC-0047,Company 047,billing@company047.io,Enterprise,Logistics,Argentina,2400,Growth,879,Active,Fernanda Rocha,2021-11-12,63,7,
+ACC-0048,Company 048,billing@company048.com,SMB,EdTech,Argentina,1128,Starter,470,Active,Ana Lima,2024-05-12,45,6,2024-09-16
+ACC-0049,Company 049,billing@company049.com.br,Mid-Market,Retail,Mexico,4760,Enterprise,5117,Active,Bruno Alves,2022-09-04,29,7,2024-10-09
+ACC-0050,Company 050,billing@company050.com,SMB,SaaS,Brazil,4694,Growth,847,Churned,Carlos Souza,2022-01-22,31,0,2024-12-27
+ACC-0051,Company 051,billing@company051.co,Mid-Market,Logistics,Brazil,1044,Growth,877,Active,Juliana Matos,2021-11-08,52,1,
+ACC-0052,Company 052,billing@company052.io,Mid-Market,Fintech,USA,2181,Starter,335,Active,Juliana Matos,2021-11-13,98,,2025-03-12
+ACC-0053,Company 053,billing@company053.co,SMB,SaaS,Argentina,4007,Enterprise,5172,Active,Juliana Matos,2022-10-11,14,,
+ACC-0054,Company 054,billing@company054.io,SMB,Logistics,Brazil,833,Enterprise,5062,Churned,Carlos Souza,2021-07-05,24,,2024-01-29
+ACC-0055,Company 055,billing@company055.com.br,Mid-Market,EdTech,USA,4646,Growth,923,Active,Carlos Souza,2022-05-16,31,,2024-07-14
+ACC-0056,Company 056,billing@company056.io,SMB,Healthtech,Brazil,3787,Professional,2112,Active,Fernanda Rocha,2024-04-09,68,,2024-08-26
+ACC-0057,Company 057,billing@company057.io,Mid-Market,E-commerce,Mexico,2460,Professional,2112,Active,Bruno Alves,2023-06-24,98,4,2024-04-11
+ACC-0058,Company 058,billing@company058.com.br,Mid-Market,EdTech,Brazil,4718,Enterprise,5024,Active,Fernanda Rocha,2023-02-21,12,10,
+ACC-0059,Company 059,billing@company059.io,SMB,EdTech,Argentina,4079,Enterprise,5162,At Risk,Fernanda Rocha,2021-04-11,39,9,
+ACC-0060,Company 060,billing@company060.com,Enterprise,SaaS,Brazil,332,Professional,2028,Active,Bruno Alves,2021-10-08,14,9,2024-02-16
+ACC-0061,Company 061,billing@company061.com.br,Mid-Market,Healthtech,Mexico,3007,Growth,884,Active,Juliana Matos,2022-02-16,44,2,2024-09-03
+ACC-0062,Company 062,billing@company062.com.br,Mid-Market,Logistics,Brazil,1163,Professional,2142,Active,Carlos Souza,2021-08-24,96,10,2025-02-15
+ACC-0063,Company 063,billing@company063.com.br,SMB,E-commerce,Mexico,1022,Growth,865,At Risk,Fernanda Rocha,2021-01-29,96,10,2025-02-25
+ACC-0064,Company 064,billing@company064.co,SMB,Logistics,Brazil,4609,Enterprise,5032,Active,Juliana Matos,2022-04-24,38,,2024-08-25
+ACC-0065,Company 065,billing@company065.co,SMB,Fintech,Brazil,2503,Growth,875,Active,Ana Lima,2021-10-14,22,,2024-07-08
+ACC-0066,Company 066,billing@company066.io,SMB,Logistics,Mexico,1275,Enterprise,5175,Active,Bruno Alves,2024-01-12,93,1,2024-05-23
+ACC-0067,Company 067,billing@company067.com.br,Enterprise,Healthtech,Brazil,823,Professional,2124,Active,Fernanda Rocha,2023-06-30,79,10,
+ACC-0068,Company 068,billing@company068.io,Mid-Market,Fintech,Argentina,1747,Starter,413,Active,Juliana Matos,2023-07-21,12,0,
+ACC-0069,Company 069,billing@company069.com,Enterprise,Healthtech,Mexico,1779,Professional,2157,Active,Carlos Souza,2024-02-10,52,,
+ACC-0070,Company 070,billing@company070.com.br,Enterprise,Fintech,Argentina,221,Enterprise,4982,Active,Ana Lima,2021-12-24,55,3,
+ACC-0071,Company 071,billing@company071.com,Mid-Market,Fintech,Argentina,530,Starter,370,At Risk,Bruno Alves,2023-12-14,56,,2024-04-23
+ACC-0072,Company 072,billing@company072.io,SMB,E-commerce,USA,265,Starter,264,At Risk,Bruno Alves,2023-12-04,61,,2024-08-15
+ACC-0073,Company 073,billing@company073.co,Enterprise,Fintech,Brazil,2262,Enterprise,5108,Active,Juliana Matos,2021-10-31,80,5,2024-09-28
+ACC-0074,Company 074,billing@company074.io,Mid-Market,Retail,Argentina,947,Growth,967,Active,Juliana Matos,2021-07-23,37,6,2024-07-30
+ACC-0075,Company 075,billing@company075.com,Mid-Market,E-commerce,USA,2570,Enterprise,5119,Active,Fernanda Rocha,2021-07-14,57,2,
+ACC-0076,Company 076,billing@company076.com.br,Enterprise,Retail,Brazil,4567,Starter,264,Active,Juliana Matos,2023-02-03,81,8,2024-07-29
+ACC-0077,Company 077,billing@company077.io,Mid-Market,Retail,Argentina,431,Enterprise,5196,Churned,Fernanda Rocha,2023-05-17,24,,2024-04-18
+ACC-0078,Company 078,billing@company078.com.br,Enterprise,E-commerce,Mexico,3021,Professional,1978,Active,Fernanda Rocha,2021-08-10,83,3,2025-01-27
+ACC-0079,Company 079,billing@company079.co,SMB,EdTech,Argentina,2200,Professional,1956,Active,Carlos Souza,2021-02-23,44,4,2024-04-02
+ACC-0080,Company 080,billing@company080.co,Enterprise,SaaS,Argentina,261,Professional,1972,Active,Juliana Matos,2021-10-18,37,6,2024-03-21
