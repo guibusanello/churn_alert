@@ -1,4 +1,4 @@
-# Churn Alert Pipeline
+# Churn Alert
 
 Pipeline de dados end-to-end que monitora risco de churn de clientes B2B e envia alertas automáticos por e-mail para o time de Customer Success.
 
