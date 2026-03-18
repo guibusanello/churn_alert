@@ -75,7 +75,7 @@ C_BAIXO_BG = colors.HexColor("#EAFAF1")
 
 def pdf_styles() -> dict:
     return {
-        "title":        ParagraphStyle("title",        fontName="Helvetica-Bold", fontSize=18, textColor=C_ACCENT, spaceAfter=2),
+        "title": ParagraphStyle("title", fontName="Helvetica-Bold", fontSize=18, textColor=C_ACCENT, spaceAfter=8),
         "sub":          ParagraphStyle("sub",           fontName="Helvetica",      fontSize=10, textColor=C_DIM,    spaceAfter=14),
         "h2":           ParagraphStyle("h2",            fontName="Helvetica-Bold", fontSize=12, textColor=C_ACCENT, spaceBefore=14, spaceAfter=6),
         "cell":         ParagraphStyle("cell",          fontName="Helvetica",      fontSize=8,  textColor=C_TEXT),
